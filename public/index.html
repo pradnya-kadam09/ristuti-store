@@ -1,0 +1,767 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="RISTUTI - Haute Couture, Ethnic Silks, Kurtis, Sarees, Dresses & Modern Women's Fashion." />
+  <title>RISTUTI | Luxury Indian Ethnic & Contemporary Fashion</title>
+  
+  <!-- Google Fonts: Cormorant Garamond, Playfair Display & Plus Jakarta Sans -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Playfair+Display:ital,wght@0,500;0,600;0,700;0,800;1,500&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <!-- Luxury Announcement Ticker -->
+  <div class="announcement" id="announcementBar">
+    <div class="announcement-track">
+      <span class="ticker-item">✦ COMPLIMENTARY EXPRESS SHIPPING ACROSS INDIA ON ORDERS ABOVE ₹1,499 ✦</span>
+      <span class="ticker-item">✦ USE CODE <strong class="code-pill">NOIR10</strong> FOR 10% OFF YOUR FIRST ORDER ✦</span>
+      <span class="ticker-item">✦ NEW 2026 FESTIVE COLLECTION: OVER 300+ HANDCRAFTED PIECES ✦</span>
+      <span class="ticker-item">✦ 100% AUTHENTIC ARTISANAL SILKS, CHIKANKARI & MODERN WEAVES ✦</span>
+    </div>
+  </div>
+
+  <!-- Main Navigation Header -->
+  <header class="header" id="mainHeader">
+    <div class="header-inner">
+      <div class="header-left">
+        <button class="menu-toggle" id="menuToggle" aria-label="Toggle navigation menu">
+          <span></span><span></span><span></span>
+        </button>
+        <a class="logo" href="#" aria-label="RISTUTI Home">
+          <span class="logo-title">RISTUTI</span><span class="logo-dot">.</span>
+          <span class="logo-sub">HAUTE COUTURE & ETHNIC BOUTIQUE</span>
+        </a>
+      </div>
+
+      <nav class="nav" id="mainNav">
+        <a href="#home" class="active">Home</a>
+        <a href="#categories">Collections</a>
+        <a href="#shop">Shop All</a>
+        <a href="#shop" data-category="Traditional Wear">Kurtis & Sets</a>
+        <a href="#shop" data-category="Sarees">Sarees</a>
+        <a href="#shop" data-category="Ethnic Dresses">Dresses</a>
+        <a href="#shop" data-category="Women's Tops">Tops</a>
+        <a href="#shop" data-category="Jeans">Jeans</a>
+        <a href="#about">Our Story</a>
+        <a href="#reviews">Reviews</a>
+        <a href="/feedback">Feedback</a>
+      </nav>
+
+      <div class="header-actions">
+        <button class="action-btn search-trigger" id="searchToggle" aria-label="Search collection">
+          <svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+          <span class="action-label">Search</span>
+        </button>
+
+        <button class="action-btn wishlist-trigger" id="wishlistToggle" aria-label="View Wishlist">
+          <svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+          <span class="count-badge" id="wishlistCount">0</span>
+        </button>
+
+        <button class="action-btn cart-open" id="cartToggle" aria-label="Open Shopping Bag">
+          <svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4Z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg>
+          <span class="action-label">Bag</span>
+          <span class="count-badge" id="cartCount">0</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Quick Search Dropdown Bar -->
+    <div class="search-bar-wrap" id="searchBarWrap">
+      <div class="search-bar-inner">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+        <input id="searchInput" type="search" placeholder="Search 300+ styles (e.g. Silk Saree, Denim Shorts, Chikankari Kurti, Linen Tops)..." autocomplete="off" />
+        <button class="clear-search" id="clearSearch" aria-label="Clear search">×</button>
+      </div>
+      <div class="quick-tags">
+        <span>Popular:</span>
+        <button class="quick-tag" data-search="Saree">Sarees</button>
+        <button class="quick-tag" data-search="Kurti">Chikankari</button>
+        <button class="quick-tag" data-search="Denim Shorts">Shorts</button>
+        <button class="quick-tag" data-search="High-Rise Jeans">Jeans</button>
+        <button class="quick-tag" data-search="Anarkali">Anarkali Gowns</button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <!-- High Fashion Hero Section -->
+    <section class="hero" id="home">
+      <div class="hero-bg-accent"></div>
+      <div class="hero-container">
+        <div class="hero-copy">
+          <div class="hero-badge">
+            <span class="badge-dot"></span>
+            <span>AUTUMN / WINTER 2026 COUTURE EDIT</span>
+          </div>
+          <h1>Tradition, with<br><em>a modern soul.</em></h1>
+          <p class="hero-description">
+            Thoughtfully curated luxury fashion for grand festivities, memorable celebrations, and effortless everyday elegance. Over 300+ authentic designs crafted to celebrate you.
+          </p>
+          <div class="hero-cta-group">
+            <a class="btn btn-luxury" href="#shop">
+              <span>Explore The Collection</span>
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+            </a>
+            <a class="btn btn-outline" href="#categories">
+              <span>View Lookbook</span>
+            </a>
+          </div>
+          <div class="hero-perks">
+            <div class="perk-item">
+              <span class="perk-num">300+</span>
+              <span class="perk-txt">Curated Pieces</span>
+            </div>
+            <div class="perk-divider"></div>
+            <div class="perk-item">
+              <span class="perk-num">100%</span>
+              <span class="perk-txt">Authentic Fabrics</span>
+            </div>
+            <div class="perk-divider"></div>
+            <div class="perk-item">
+              <span class="perk-num">4.9 ★</span>
+              <span class="perk-txt">Customer Rating</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="hero-visual">
+          <div class="hero-frame">
+            <div class="hero-image-wrapper">
+              <img src="/images/products/1.jpg" alt="Ristuti Haute Couture Fashion" id="heroMainImg" />
+            </div>
+            <div class="hero-glass-card">
+              <span class="glass-eyebrow">THE ROYAL EDIT</span>
+              <h4>Festive Silks & Handlooms</h4>
+              <p>Hand-finished embroidery on fine mulberry & cotton blends.</p>
+              <a href="#shop" data-category="Traditional Wear" class="glass-link">Shop Traditional Wear ↗</a>
+            </div>
+            <div class="hero-floating-seal">
+              <svg viewBox="0 0 100 100" class="rotating-seal">
+                <path id="curve" d="M 50 50 m -37 0 a 37 37 0 1 1 74 0 a 37 37 0 1 1 -74 0" fill="transparent"/>
+                <text><textPath href="#curve">✦ RISTUTI BOUTIQUE ✦ LUXURY INDIAN FASHION</textPath></text>
+              </svg>
+              <div class="seal-center">✦</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Luxury Brand Pillars Bar -->
+    <section class="brand-pillars">
+      <div class="pillars-container">
+        <div class="pillar-box">
+          <div class="pillar-icon">
+            <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+          </div>
+          <div class="pillar-text">
+            <strong>Authentic Handcrafting</strong>
+            <p>Finest Indian silks, georgette, rayon & denim weaves</p>
+          </div>
+        </div>
+        <div class="pillar-box">
+          <div class="pillar-icon">
+            <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="1" y="3" width="15" height="13"/><polygon points="16 8 20 8 23 11 23 16 16 16 16 8"/><circle cx="5.5" cy="18.5" r="2.5"/><circle cx="18.5" cy="18.5" r="2.5"/></svg>
+          </div>
+          <div class="pillar-text">
+            <strong>Express Shipping</strong>
+            <p>Free tracked dispatch across India on orders ₹1,499+</p>
+          </div>
+        </div>
+        <div class="pillar-box">
+          <div class="pillar-icon">
+            <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>
+          </div>
+          <div class="pillar-text">
+            <strong>7-Day Easy Returns</strong>
+            <p>Seamless exchanges & guaranteed customer delight</p>
+          </div>
+        </div>
+        <div class="pillar-box">
+          <div class="pillar-icon">
+            <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2" y="4" width="20" height="16" rx="2"/><line x1="2" y1="10" x2="22" y2="10"/></svg>
+          </div>
+          <div class="pillar-text">
+            <strong>Cash On Delivery</strong>
+            <p>Convenient pay-on-doorstep & verified checkout</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Visual Category Lookbook (10 Categories) -->
+    <section class="categories-section" id="categories">
+      <div class="section-container">
+        <div class="section-header">
+          <div>
+            <p class="section-eyebrow">CURATED VISUAL CATALOGUE</p>
+            <h2 class="section-title">Shop by <em>Category.</em></h2>
+          </div>
+          <p class="section-desc">Explore all 10 distinct collections crafted for every celebration and mood.</p>
+        </div>
+
+        <div class="category-grid" id="categoryGrid">
+          <!-- Category 1 -->
+          <div class="cat-card" data-filter="Traditional Wear">
+            <div class="cat-card-img"><img src="/images/products/1.jpg" alt="Traditional Wear" loading="lazy"></div>
+            <div class="cat-card-overlay">
+              <span class="cat-num">01</span>
+              <h3>Traditional Wear</h3>
+              <p>Chikankari, Anarkalis & Palazzo Sets</p>
+              <span class="cat-link">Explore Collection ↗</span>
+            </div>
+          </div>
+          <!-- Category 2 -->
+          <div class="cat-card" data-filter="Sarees">
+            <div class="cat-card-img"><img src="/images/products/9.jpg" alt="Sarees" loading="lazy"></div>
+            <div class="cat-card-overlay">
+              <span class="cat-num">02</span>
+              <h3>Royal Sarees</h3>
+              <p>Banarasi, Kanjivaram & Organza Drapes</p>
+              <span class="cat-link">Explore Collection ↗</span>
+            </div>
+          </div>
+          <!-- Category 3 -->
+          <div class="cat-card" data-filter="Ethnic Dresses">
+            <div class="cat-card-img"><img src="/images/products/2.jpg" alt="Ethnic Dresses" loading="lazy"></div>
+            <div class="cat-card-overlay">
+              <span class="cat-num">03</span>
+              <h3>Ethnic Dresses</h3>
+              <p>Flared Gowns, Shararas & Indo-Western</p>
+              <span class="cat-link">Explore Collection ↗</span>
+            </div>
+          </div>
+          <!-- Category 4 -->
+          <div class="cat-card" data-filter="Women's Tops">
+            <div class="cat-card-img"><img src="/images/products/3.jpg" alt="Women's Tops" loading="lazy"></div>
+            <div class="cat-card-overlay">
+              <span class="cat-num">04</span>
+              <h3>Women's Tops</h3>
+              <p>Ruffle Blouses, Wrap Tops & Satin Silks</p>
+              <span class="cat-link">Explore Collection ↗</span>
+            </div>
+          </div>
+          <!-- Category 5 -->
+          <div class="cat-card" data-filter="Jeans">
+            <div class="cat-card-img"><img src="/images/products/12.jpg" alt="Jeans" loading="lazy"></div>
+            <div class="cat-card-overlay">
+              <span class="cat-num">05</span>
+              <h3>Premium Jeans</h3>
+              <p>High-Rise, Wide-Leg & Straight Denim</p>
+              <span class="cat-link">Explore Collection ↗</span>
+            </div>
+          </div>
+          <!-- Category 6 -->
+          <div class="cat-card" data-filter="Shorts">
+            <div class="cat-card-img"><img src="/images/products/13.jpg" alt="Shorts" loading="lazy"></div>
+            <div class="cat-card-overlay">
+              <span class="cat-num">06</span>
+              <h3>Chic Shorts</h3>
+              <p>Denim Cutoffs, Linen & Paperbag Shorts</p>
+              <span class="cat-link">Explore Collection ↗</span>
+            </div>
+          </div>
+          <!-- Category 7 -->
+          <div class="cat-card" data-filter="T-Shirts">
+            <div class="cat-card-img"><img src="/images/products/11.jpg" alt="T-Shirts" loading="lazy"></div>
+            <div class="cat-card-overlay">
+              <span class="cat-num">07</span>
+              <h3>Everyday Tees</h3>
+              <p>Oversized Graphic & Soft Jersey Tees</p>
+              <span class="cat-link">Explore Collection ↗</span>
+            </div>
+          </div>
+          <!-- Category 8 -->
+          <div class="cat-card" data-filter="Leggings">
+            <div class="cat-card-img"><img src="/images/products/14.jpg" alt="Leggings" loading="lazy"></div>
+            <div class="cat-card-overlay">
+              <span class="cat-num">08</span>
+              <h3>Leggings</h3>
+              <p>Stretch Lycra, Ankle & Churidar Lengths</p>
+              <span class="cat-link">Explore Collection ↗</span>
+            </div>
+          </div>
+          <!-- Category 9 -->
+          <div class="cat-card" data-filter="Skirts">
+            <div class="cat-card-img"><img src="/images/products/15.jpg" alt="Skirts" loading="lazy"></div>
+            <div class="cat-card-overlay">
+              <span class="cat-num">09</span>
+              <h3>Flared Skirts</h3>
+              <p>Pleated Midi, Satin Slip & A-Line Skirts</p>
+              <span class="cat-link">Explore Collection ↗</span>
+            </div>
+          </div>
+          <!-- Category 10 -->
+          <div class="cat-card" data-filter="Jackets">
+            <div class="cat-card-img"><img src="/images/products/16.jpg" alt="Jackets" loading="lazy"></div>
+            <div class="cat-card-overlay">
+              <span class="cat-num">10</span>
+              <h3>Jackets & Shrugs</h3>
+              <p>Tailored Blazers, Denim & Quilted Jackets</p>
+              <span class="cat-link">Explore Collection ↗</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Main Shop Section (Over 300+ Products) -->
+    <section class="shop-section" id="shop">
+      <div class="section-container">
+        <!-- Shop Header & Curated Tabs -->
+        <div class="shop-head">
+          <div class="shop-title-wrap">
+            <p class="section-eyebrow">THE BOUTIQUE COLLECTION</p>
+            <h2 class="section-title">Pieces to <em>Treasure.</em></h2>
+            <p class="shop-subtitle">Over 300+ modern and traditional designs tailored with precision.</p>
+          </div>
+
+          <!-- Featured Filter Tabs -->
+          <div class="featured-tabs" id="featuredTabs">
+            <button class="feat-tab active" data-tag="">All Pieces</button>
+            <button class="feat-tab" data-tag="BESTSELLER">★ Bestsellers</button>
+            <button class="feat-tab" data-tag="NEW">✨ New Arrivals</button>
+            <button class="feat-tab" data-tag="TRENDING">🔥 Trending Now</button>
+            <button class="feat-tab" data-tag="SALE">🏷️ Special Offers</button>
+          </div>
+        </div>
+
+        <!-- Filter Controls Bar -->
+        <div class="shop-controls-bar">
+          <!-- Category Pills -->
+          <div class="category-pills" id="chips"></div>
+
+          <!-- Secondary Filters: Price, Sort, Count -->
+          <div class="filter-actions">
+            <div class="select-wrapper">
+              <label for="priceFilter" class="sr-only">Filter by Price</label>
+              <select id="priceFilter" aria-label="Filter by Price">
+                <option value="">All Prices</option>
+                <option value="under500">Under ₹500</option>
+                <option value="500to1000">₹500 – ₹1,000</option>
+                <option value="1000to2000">₹1,000 – ₹2,000</option>
+                <option value="above2000">Above ₹2,000</option>
+              </select>
+            </div>
+
+            <div class="select-wrapper">
+              <label for="sortFilter" class="sr-only">Sort products</label>
+              <select id="sortFilter" aria-label="Sort products">
+                <option value="">Featured</option>
+                <option value="newest">Newest First</option>
+                <option value="price-asc">Price: Low to High</option>
+                <option value="price-desc">Price: High to Low</option>
+                <option value="discount">Biggest Discount</option>
+              </select>
+            </div>
+
+            <input type="hidden" id="categoryFilter" value="All" />
+          </div>
+        </div>
+
+        <!-- Live Status Bar -->
+        <div class="results-meta-bar">
+          <p class="result-count" id="resultCount">Curating your collection...</p>
+          <div class="active-filter-tags" id="activeFilterTags"></div>
+        </div>
+
+        <!-- Product Cards Grid -->
+        <div class="product-grid" id="productGrid">
+          <div class="loading-state">
+            <div class="luxury-spinner"></div>
+            <p>Curating your boutique collection...</p>
+          </div>
+        </div>
+
+        <!-- Load More Products Button -->
+        <div class="load-more-wrap">
+          <button class="btn btn-luxury" id="loadMore" style="display:none">
+            <span>Show More Pieces</span>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 5v14M5 12l7 7 7-7"/></svg>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Editorial Couture Showcase ("Our Craft") -->
+    <section class="editorial" id="about">
+      <div class="editorial-container">
+        <div class="editorial-visual">
+          <div class="editorial-img-box">
+            <img src="/images/products/2.jpg" alt="Artisan craftsmanship at Ristuti" loading="lazy">
+          </div>
+          <div class="editorial-badge">
+            <strong>HAUTE HERITAGE</strong>
+            <span>Pure Handloom Silks</span>
+          </div>
+        </div>
+        <div class="editorial-content">
+          <p class="section-eyebrow">OUR DESIGN PHILOSOPHY</p>
+          <h2 class="editorial-title">Every thread tells<br><em>a timeless story.</em></h2>
+          <p class="editorial-body">
+            At RISTUTI, we believe true fashion doesn't rush with trends. It honors the rich textile traditions of India—the delicate threads of Chikankari, the regal sheen of Banarasi zari, and the supple comfort of pure cotton—while shaping modern, flattering silhouettes for the contemporary woman.
+          </p>
+          <div class="editorial-quote">
+            "An outfit should never wear you. You should wear it with ease, dignity, and quiet confidence."
+          </div>
+          <div class="editorial-features">
+            <div class="feat-bullet">
+              <span class="gold-check">✓</span>
+              <span>100% Breathable Natural Linings</span>
+            </div>
+            <div class="feat-bullet">
+              <span class="gold-check">✓</span>
+              <span>Reinforced Double-Stitched Seams</span>
+            </div>
+            <div class="feat-bullet">
+              <span class="gold-check">✓</span>
+              <span>Pre-washed Fabrics to Avoid Shrinkage</span>
+            </div>
+          </div>
+          <a class="btn btn-luxury" href="#shop">Explore All 300+ Styles ↗</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Verified Customer Reviews Section -->
+    <section class="reviews-section" id="reviews">
+      <div class="section-container">
+        <div class="section-header">
+          <div>
+            <p class="section-eyebrow">PATRON EXPERIENCES</p>
+            <h2 class="section-title">Words from <em>our Patrons.</em></h2>
+          </div>
+          <p class="section-desc">Real stories and unedited reviews from satisfied customers across India.</p>
+        </div>
+
+        <div class="reviews-layout">
+          <!-- Summary Card & Review Form -->
+          <div class="reviews-sidebar">
+            <div class="review-score-card">
+              <div class="score-main">
+                <strong id="avgScore">4.9</strong>
+                <div>
+                  <div class="stars-gold" id="avgStars">★★★★★</div>
+                  <span class="review-total-label" id="reviewCount">Verified Reviews</span>
+                </div>
+              </div>
+              <div class="score-bars" id="ratingBars"></div>
+            </div>
+
+            <!-- Add Review Form -->
+            <form class="review-form-card" id="reviewForm">
+              <h3>Share Your Experience</h3>
+              <p class="form-hint">Your review helps our artisans and guides other shoppers.</p>
+              
+              <div class="form-group">
+                <span class="field-label">Your Rating *</span>
+                <div class="star-picker" id="starPicker" role="group" aria-label="Select rating">
+                  <button type="button" class="star-btn" data-star="5" aria-label="5 stars">★</button>
+                  <button type="button" class="star-btn" data-star="4" aria-label="4 stars">★</button>
+                  <button type="button" class="star-btn" data-star="3" aria-label="3 stars">★</button>
+                  <button type="button" class="star-btn" data-star="2" aria-label="2 stars">★</button>
+                  <button type="button" class="star-btn" data-star="1" aria-label="1 star">★</button>
+                </div>
+                <input type="hidden" id="ratingInput" name="rating" value="">
+              </div>
+
+              <div class="form-group">
+                <label for="reviewName">Your Name *</label>
+                <input id="reviewName" name="name" required maxlength="60" placeholder="e.g. Radhika Sharma" />
+              </div>
+
+              <div class="form-group">
+                <label for="reviewTitle">Review Title (optional)</label>
+                <input id="reviewTitle" name="title" maxlength="80" placeholder="e.g. Loved the fabric & exquisite fitting!" />
+              </div>
+
+              <div class="form-group">
+                <label for="reviewComment">Your Feedback *</label>
+                <textarea id="reviewComment" name="comment" required minlength="5" maxlength="600" rows="3" placeholder="Tell us about the outfit quality, stitching, delivery and experience..."></textarea>
+              </div>
+
+              <button class="btn btn-luxury full-width" type="submit" id="reviewSubmit">
+                <span>Submit Verified Review</span>
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+              </button>
+            </form>
+          </div>
+
+          <!-- Reviews Feed -->
+          <div class="reviews-feed">
+            <div class="reviews-list" id="reviewList"></div>
+            <button class="btn btn-outline more-reviews-btn" id="moreReviews" style="display:none">Load More Customer Reviews</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Instagram Lookbook Community Gallery -->
+    <section class="insta-section">
+      <div class="section-container">
+        <div class="insta-header">
+          <p class="section-eyebrow">COMMUNITY & LOOKBOOK</p>
+          <h2 class="section-title">Follow Us <em>@_ristuti_</em></h2>
+          <p>Tag #RistutiCouture on Instagram for a chance to be featured in our seasonal lookbook.</p>
+        </div>
+        <div class="insta-grid">
+          <a class="insta-item" href="https://www.instagram.com/_ristuti_/" target="_blank" rel="noopener noreferrer">
+            <img src="/images/products/1.jpg" alt="Ristuti on Instagram" loading="lazy">
+            <div class="insta-overlay"><span>View on Instagram ↗</span></div>
+          </a>
+          <a class="insta-item" href="https://www.instagram.com/_ristuti_/" target="_blank" rel="noopener noreferrer">
+            <img src="/images/products/9.jpg" alt="Ristuti on Instagram" loading="lazy">
+            <div class="insta-overlay"><span>View on Instagram ↗</span></div>
+          </a>
+          <a class="insta-item" href="https://www.instagram.com/_ristuti_/" target="_blank" rel="noopener noreferrer">
+            <img src="/images/products/3.jpg" alt="Ristuti on Instagram" loading="lazy">
+            <div class="insta-overlay"><span>View on Instagram ↗</span></div>
+          </a>
+          <a class="insta-item" href="https://www.instagram.com/_ristuti_/" target="_blank" rel="noopener noreferrer">
+            <img src="/images/products/12.jpg" alt="Ristuti on Instagram" loading="lazy">
+            <div class="insta-overlay"><span>View on Instagram ↗</span></div>
+          </a>
+          <a class="insta-item" href="https://www.instagram.com/_ristuti_/" target="_blank" rel="noopener noreferrer">
+            <img src="/images/products/13.jpg" alt="Ristuti on Instagram" loading="lazy">
+            <div class="insta-overlay"><span>View on Instagram ↗</span></div>
+          </a>
+          <a class="insta-item" href="https://www.instagram.com/_ristuti_/" target="_blank" rel="noopener noreferrer">
+            <img src="/images/products/16.jpg" alt="Ristuti on Instagram" loading="lazy">
+            <div class="insta-overlay"><span>View on Instagram ↗</span></div>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- VIP Newsletter & Club -->
+    <section class="newsletter-section">
+      <div class="newsletter-card">
+        <div class="newsletter-copy">
+          <p class="section-eyebrow gold-text">JOIN THE PRIVILEGE CLUB</p>
+          <h2>Unlock 10% Off Your<br><em>First Boutique Order.</em></h2>
+          <p>Be the first to preview festive releases, private trunk sales, and styling guides.</p>
+        </div>
+        <form class="newsletter-form" id="newsletterForm">
+          <div class="newsletter-input-wrap">
+            <input type="email" id="newsletterEmail" required placeholder="Enter your email address" />
+            <button class="btn btn-gold" type="submit">
+              <span>Join Club</span>
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+            </button>
+          </div>
+          <p class="newsletter-note">Instant 10% coupon code delivered immediately upon signup.</p>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <!-- Luxury Footer -->
+  <footer class="footer">
+    <div class="footer-top">
+      <div class="footer-col brand-col">
+        <a class="logo footer-logo" href="#">
+          <span class="logo-title">RISTUTI</span><span class="logo-dot">.</span>
+        </a>
+        <p class="footer-tagline">
+          Modern Indian fashion & haute couture, thoughtfully curated for celebrations, everyday elegance, and authentic expression.
+        </p>
+        <div class="footer-contact-info">
+          <a href="tel:+917263518364" class="contact-pill">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+            <span>+91 72635 18364</span>
+          </a>
+          <a href="https://www.instagram.com/_ristuti_/" target="_blank" rel="noopener noreferrer" class="contact-pill">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+            <span>@_ristuti_</span>
+          </a>
+        </div>
+      </div>
+
+      <div class="footer-col">
+        <h4>COLLECTIONS</h4>
+        <a href="#shop" data-category="Traditional Wear">Kurtis & Sets</a>
+        <a href="#shop" data-category="Sarees">Royal Sarees</a>
+        <a href="#shop" data-category="Ethnic Dresses">Festive Dresses</a>
+        <a href="#shop" data-category="Women's Tops">Everyday Tops</a>
+        <a href="#shop" data-category="Jeans">Premium Denim</a>
+        <a href="#shop" data-category="Shorts">Chic Shorts</a>
+        <a href="#shop" data-category="Leggings">Lycra Leggings</a>
+      </div>
+
+      <div class="footer-col">
+        <h4>CUSTOMER CARE</h4>
+        <a href="#reviews">Verified Reviews</a>
+        <a href="/feedback">Share Feedback</a>
+        <a href="#about">Our Craft & Story</a>
+        <a href="tel:+917263518364">Boutique Helpline</a>
+        <a href="#home">Shipping & Exchanges</a>
+        <a href="#home">Size Guide</a>
+      </div>
+
+      <div class="footer-col">
+        <h4>PAYMENT & SECURITY</h4>
+        <p class="secure-blurb">We support secure, hassle-free payments across India:</p>
+        <div class="payment-methods">
+          <span class="pay-tag">Cash on Delivery</span>
+          <span class="pay-tag">UPI / GPay / PhonePe</span>
+          <span class="pay-tag">RuPay / Visa</span>
+          <span class="pay-tag">Net Banking</span>
+        </div>
+        <p class="cod-notice">✦ COD available for all pin codes across India.</p>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <span>© <span id="year">2026</span> RISTUTI BOUTIQUE. All rights reserved.</span>
+      <span class="craft-note">Handcrafted with care for modern elegance.</span>
+    </div>
+  </footer>
+
+  <!-- Dark Overlay Backdrop -->
+  <div class="overlay" id="overlay"></div>
+
+  <!-- Sliding Shopping Bag Drawer -->
+  <aside class="cart-drawer" id="cartDrawer" aria-label="Shopping Bag">
+    <div class="drawer-header">
+      <div>
+        <span class="drawer-eyebrow">YOUR SELECTION</span>
+        <h3>Shopping Bag <span id="drawerCount">(0)</span></h3>
+      </div>
+      <button class="close-btn" id="closeCart" aria-label="Close Shopping Bag">×</button>
+    </div>
+
+    <!-- Free Shipping Milestone Tracker -->
+    <div class="shipping-tracker">
+      <div class="tracker-text" id="shippingTrackerText">Add ₹1,499 for <strong>Free Express Shipping</strong></div>
+      <div class="tracker-bar"><div class="tracker-progress" id="shippingProgress" style="width: 0%"></div></div>
+    </div>
+
+    <div id="cartItems" class="cart-items"></div>
+
+    <div class="cart-bottom">
+      <!-- Promo Code Input -->
+      <div class="coupon-box">
+        <input type="text" id="couponInput" placeholder="Promo code (e.g. NOIR10)" />
+        <button type="button" id="applyCouponBtn">Apply</button>
+      </div>
+      <div id="couponMessage" class="coupon-msg"></div>
+
+      <!-- Price Breakdown -->
+      <div class="cart-summary-lines">
+        <div class="summary-line"><span>Bag Subtotal</span><span id="cartSubtotal">₹0</span></div>
+        <div class="summary-line discount-line" id="discountRow" style="display:none"><span>Promo Discount</span><span id="cartDiscount">-₹0</span></div>
+        <div class="summary-line"><span>Estimated Shipping</span><span id="cartShipping">₹0</span></div>
+        <div class="summary-line total-line"><span>Estimated Total</span><strong id="cartTotal">₹0</strong></div>
+      </div>
+
+      <button class="btn btn-luxury full-width" id="checkoutButton">
+        <span>Proceed To Checkout</span>
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+      </button>
+      <p class="safe-checkout-note">🔒 256-Bit SSL Encryption · Cash on Delivery Supported</p>
+    </div>
+  </aside>
+
+  <!-- Wishlist Drawer -->
+  <aside class="cart-drawer wishlist-drawer" id="wishlistDrawer" aria-label="Wishlist">
+    <div class="drawer-header">
+      <div>
+        <span class="drawer-eyebrow">YOUR FAVORITES</span>
+        <h3>Wishlist <span id="wishlistDrawerCount">(0)</span></h3>
+      </div>
+      <button class="close-btn" id="closeWishlist" aria-label="Close Wishlist">×</button>
+    </div>
+    <div id="wishlistItems" class="cart-items"></div>
+    <div class="cart-bottom">
+      <button class="btn btn-luxury full-width" id="moveAllWishlistToBag">Move All Available To Bag</button>
+    </div>
+  </aside>
+
+  <!-- Quick View Modal -->
+  <div class="modal-backdrop" id="quickViewModal">
+    <div class="quickview-modal-content">
+      <button class="close-btn quickview-close" id="closeQuickView" aria-label="Close Quick View">×</button>
+      <div class="quickview-grid" id="quickViewContent">
+        <!-- Injected dynamically via JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Checkout Modal -->
+  <div class="modal-backdrop" id="checkoutModal">
+    <div class="checkout-modal">
+      <div class="drawer-header">
+        <div>
+          <span class="drawer-eyebrow">ALMOST YOURS</span>
+          <h3>Order Checkout</h3>
+        </div>
+        <button class="close-btn" id="closeCheckout" aria-label="Close Checkout">×</button>
+      </div>
+
+      <form id="checkoutForm">
+        <div class="form-group">
+          <label>Full Name *</label>
+          <input name="name" required maxlength="100" placeholder="e.g. Priyadarshini Sengupta" />
+        </div>
+
+        <div class="form-row">
+          <div class="form-group">
+            <label>Mobile Number *</label>
+            <input name="phone" required inputmode="tel" pattern="[0-9+ ()-]{10,20}" placeholder="10-digit mobile number" />
+          </div>
+          <div class="form-group">
+            <label>Email Address (for order tracking)</label>
+            <input name="email" type="email" placeholder="you@example.com" />
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label>Delivery Address with PIN code *</label>
+          <textarea name="address" required maxlength="500" rows="3" placeholder="House/Flat No., Apartment/Street name, Landmark, City, State, PIN code"></textarea>
+        </div>
+
+        <div class="form-group">
+          <label>Special Delivery Instructions (optional)</label>
+          <input name="note" maxlength="250" placeholder="e.g. Please ring bell or call before delivery" />
+        </div>
+
+        <div class="form-group">
+          <label>Payment Method</label>
+          <select name="paymentMethod" id="checkoutPaymentMethod">
+            <option value="Cash on Delivery">Cash on Delivery (Pay at your doorstep)</option>
+            <option value="Online payment (demo)">Online Payment (Instant Demo simulation)</option>
+          </select>
+        </div>
+
+        <div class="checkout-summary-box">
+          <div class="checkout-summary-row"><span>Items Count:</span><strong id="chkItemCount">0 items</strong></div>
+          <div class="checkout-summary-row"><span>Subtotal:</span><span id="chkSubtotal">₹0</span></div>
+          <div class="checkout-summary-row" id="chkDiscountRow" style="display:none"><span>Promo Discount:</span><span id="chkDiscount">-₹0</span></div>
+          <div class="checkout-summary-row"><span>Delivery Fee:</span><span id="chkShipping">FREE</span></div>
+          <div class="checkout-summary-row checkout-grand-total"><span>Grand Total:</span><strong id="checkoutTotal">₹0</strong></div>
+        </div>
+
+        <button class="btn btn-luxury full-width" type="submit" id="placeOrderButton">
+          <span>Confirm & Place Order</span>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </button>
+        <p class="safe-checkout-note">No card details required for Cash on Delivery. Order confirmed instantly.</p>
+      </form>
+
+      <div id="orderMessage" class="order-message" role="status"></div>
+    </div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div class="toast" id="toast" role="status"></div>
+
+  <!-- Scripts -->
+  <script src="/fx.js"></script>
+  <script src="/app.js"></script>
+</body>
+</html>

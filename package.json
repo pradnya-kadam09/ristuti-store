@@ -1,0 +1,14 @@
+{
+  "name": "ristuti-store",
+  "version": "1.0.0",
+  "description": "Simple full-stack Ristuti clothing boutique store",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "seed": "node seed/generate.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

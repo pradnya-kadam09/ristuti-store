@@ -1,0 +1,3358 @@
+[
+  {
+    "id": 1,
+    "name": "Rose Printed Kurti",
+    "category": "Traditional Wear",
+    "price": 899,
+    "oldPrice": 1199,
+    "image": "/images/products/1.jpg",
+    "description": "A graceful Chikankari & rose printed kurti for everyday elegance.",
+    "tag": "CURATED PICK"
+  },
+  {
+    "id": 2,
+    "name": "Festive Anarkali",
+    "category": "Ethnic Dresses",
+    "price": 1899,
+    "oldPrice": 2299,
+    "image": "/images/products/2.jpg",
+    "description": "A statement ethnic gown for celebrations and grand festive occasions.",
+    "tag": "CURATED PICK"
+  },
+  {
+    "id": 3,
+    "name": "Classic Everyday Top",
+    "category": "Women's Tops",
+    "price": 699,
+    "oldPrice": 899,
+    "image": "/images/products/3.jpg",
+    "description": "An easy-to-style chic blouse made for your everyday boutique wardrobe."
+  },
+  {
+    "id": 4,
+    "name": "Elegant Ethnic Set",
+    "category": "Traditional Wear",
+    "price": 1499,
+    "oldPrice": 1799,
+    "image": "/images/products/4.jpg",
+    "description": "A timeless traditional kurta & palazzo set with a modern touch."
+  },
+  {
+    "id": 5,
+    "name": "Pastel Occasion Dress",
+    "category": "Ethnic Dresses",
+    "price": 2199,
+    "oldPrice": 2699,
+    "image": "/images/products/5.jpg",
+    "description": "A soft, flowing pastel dress tailored for memorable occasions."
+  },
+  {
+    "id": 6,
+    "name": "Minimal Chic Top",
+    "category": "Women's Tops",
+    "price": 749,
+    "oldPrice": 999,
+    "image": "/images/products/6.jpg",
+    "description": "A versatile satin wrap top that pairs beautifully with your favourite looks."
+  },
+  {
+    "id": 7,
+    "name": "Teal Chikankari Kurti",
+    "category": "Traditional Wear",
+    "price": 879,
+    "oldPrice": 1100,
+    "image": "/images/products/7.jpg",
+    "description": "Teal chikankari kurti. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 8,
+    "name": "Mustard Lehenga Set",
+    "category": "Ethnic Dresses",
+    "price": 1779,
+    "oldPrice": 3550,
+    "image": "/images/products/8.jpg",
+    "description": "Mustard lehenga set. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 9,
+    "name": "Peach Kanjivaram Saree",
+    "category": "Sarees",
+    "price": 1649,
+    "oldPrice": 2200,
+    "image": "/images/products/9.jpg",
+    "description": "Peach kanjivaram saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 10,
+    "name": "Peach Ruffle Blouse",
+    "category": "Women's Tops",
+    "price": 839,
+    "oldPrice": 1400,
+    "image": "/images/products/10.jpg",
+    "description": "Peach ruffle blouse. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 11,
+    "name": "Lavender Boxy Tee",
+    "category": "T-Shirts",
+    "price": 809,
+    "oldPrice": 950,
+    "image": "/images/products/11.jpg",
+    "description": "Lavender boxy tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 12,
+    "name": "Jet Black High-Rise Jeans",
+    "category": "Jeans",
+    "price": 749,
+    "oldPrice": 1500,
+    "image": "/images/products/12.jpg",
+    "description": "Jet Black high-rise jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 13,
+    "name": "Ivory Frill Shorts",
+    "category": "Shorts",
+    "price": 569,
+    "oldPrice": 950,
+    "image": "/images/products/13.jpg",
+    "description": "Ivory frill shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 14,
+    "name": "Teal Stretch Leggings",
+    "category": "Leggings",
+    "price": 349,
+    "oldPrice": 500,
+    "image": "/images/products/14.jpg",
+    "description": "Teal stretch leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 15,
+    "name": "Pearl White Pleated Skirt",
+    "category": "Skirts",
+    "price": 1399,
+    "oldPrice": 1550,
+    "image": "/images/products/15.jpg",
+    "description": "Pearl White pleated skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 16,
+    "name": "Royal Maroon Denim Jacket",
+    "category": "Jackets",
+    "price": 2429,
+    "oldPrice": 2700,
+    "image": "/images/products/16.jpg",
+    "description": "Royal Maroon denim jacket. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 17,
+    "name": "Royal Maroon Embroidered Kurti",
+    "category": "Traditional Wear",
+    "price": 1749,
+    "oldPrice": 2500,
+    "image": "/images/products/17.jpg",
+    "description": "Royal Maroon embroidered kurti. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 18,
+    "name": "Lavender Lehenga Set",
+    "category": "Ethnic Dresses",
+    "price": 1609,
+    "oldPrice": 2150,
+    "image": "/images/products/18.jpg",
+    "description": "Lavender lehenga set. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 19,
+    "name": "Lavender Cotton Saree",
+    "category": "Sarees",
+    "price": 2029,
+    "oldPrice": 2250,
+    "image": "/images/products/19.jpg",
+    "description": "Lavender cotton saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 20,
+    "name": "Pearl White Crop Top",
+    "category": "Women's Tops",
+    "price": 809,
+    "oldPrice": 900,
+    "image": "/images/products/20.jpg",
+    "description": "Pearl White crop top. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 21,
+    "name": "Teal Striped Tee",
+    "category": "T-Shirts",
+    "price": 279,
+    "oldPrice": 350,
+    "image": "/images/products/21.jpg",
+    "description": "Teal striped tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 22,
+    "name": "Ice Blue Bootcut Jeans",
+    "category": "Jeans",
+    "price": 1109,
+    "oldPrice": 1850,
+    "image": "/images/products/22.jpg",
+    "description": "Ice Blue bootcut jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 23,
+    "name": "Lavender Cotton Shorts",
+    "category": "Shorts",
+    "price": 279,
+    "oldPrice": 350,
+    "image": "/images/products/23.jpg",
+    "description": "Lavender cotton shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 24,
+    "name": "Lavender Gym Leggings",
+    "category": "Leggings",
+    "price": 419,
+    "oldPrice": 600,
+    "image": "/images/products/24.jpg",
+    "description": "Lavender gym leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 25,
+    "name": "Charcoal Midi Skirt",
+    "category": "Skirts",
+    "price": 689,
+    "oldPrice": 1150,
+    "image": "/images/products/25.jpg",
+    "description": "Charcoal midi skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 26,
+    "name": "Emerald Quilted Jacket",
+    "category": "Jackets",
+    "price": 2839,
+    "oldPrice": 3150,
+    "image": "/images/products/26.jpg",
+    "description": "Emerald quilted jacket. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 27,
+    "name": "Peach Straight Kurti",
+    "category": "Traditional Wear",
+    "price": 1469,
+    "oldPrice": 2450,
+    "image": "/images/products/27.jpg",
+    "description": "Peach straight kurti. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 28,
+    "name": "Mustard Flared Kurta Dress",
+    "category": "Ethnic Dresses",
+    "price": 3959,
+    "oldPrice": 4400,
+    "image": "/images/products/28.jpg",
+    "description": "Mustard flared kurta dress. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 29,
+    "name": "Pearl White Georgette Saree",
+    "category": "Sarees",
+    "price": 4049,
+    "oldPrice": 5400,
+    "image": "/images/products/29.jpg",
+    "description": "Pearl White georgette saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 30,
+    "name": "Teal Tie-Knot Top",
+    "category": "Women's Tops",
+    "price": 639,
+    "oldPrice": 850,
+    "image": "/images/products/30.jpg",
+    "description": "Teal tie-knot top. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 31,
+    "name": "Mustard Striped Tee",
+    "category": "T-Shirts",
+    "price": 639,
+    "oldPrice": 800,
+    "image": "/images/products/31.jpg",
+    "description": "Mustard striped tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 32,
+    "name": "Dark Indigo Skinny Jeans",
+    "category": "Jeans",
+    "price": 959,
+    "oldPrice": 1600,
+    "image": "/images/products/32.jpg",
+    "description": "Dark Indigo skinny jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 33,
+    "name": "Emerald Cycling Shorts",
+    "category": "Shorts",
+    "price": 789,
+    "oldPrice": 1050,
+    "image": "/images/products/33.jpg",
+    "description": "Emerald cycling shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 34,
+    "name": "Royal Maroon Gym Leggings",
+    "category": "Leggings",
+    "price": 249,
+    "oldPrice": 500,
+    "image": "/images/products/34.jpg",
+    "description": "Royal Maroon gym leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 35,
+    "name": "Lavender Pleated Skirt",
+    "category": "Skirts",
+    "price": 719,
+    "oldPrice": 900,
+    "image": "/images/products/35.jpg",
+    "description": "Lavender pleated skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 36,
+    "name": "Olive Shrug",
+    "category": "Jackets",
+    "price": 939,
+    "oldPrice": 1350,
+    "image": "/images/products/36.jpg",
+    "description": "Olive shrug. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 37,
+    "name": "Lavender Printed Kurta Set",
+    "category": "Traditional Wear",
+    "price": 1789,
+    "oldPrice": 2550,
+    "image": "/images/products/37.jpg",
+    "description": "Lavender printed kurta set. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 38,
+    "name": "Coral Sharara Set",
+    "category": "Ethnic Dresses",
+    "price": 1399,
+    "oldPrice": 1650,
+    "image": "/images/products/38.jpg",
+    "description": "Coral sharara set. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 39,
+    "name": "Midnight Navy Cotton Saree",
+    "category": "Sarees",
+    "price": 4289,
+    "oldPrice": 5050,
+    "image": "/images/products/39.jpg",
+    "description": "Midnight Navy cotton saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 40,
+    "name": "Pearl White Puff Sleeve Top",
+    "category": "Women's Tops",
+    "price": 639,
+    "oldPrice": 800,
+    "image": "/images/products/40.jpg",
+    "description": "Pearl White puff sleeve top. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 41,
+    "name": "Sage Slogan Tee",
+    "category": "T-Shirts",
+    "price": 209,
+    "oldPrice": 350,
+    "image": "/images/products/41.jpg",
+    "description": "Sage slogan tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 42,
+    "name": "Classic Blue Straight Jeans",
+    "category": "Jeans",
+    "price": 1439,
+    "oldPrice": 1800,
+    "image": "/images/products/42.jpg",
+    "description": "Classic Blue straight jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 43,
+    "name": "Wine Denim Shorts",
+    "category": "Shorts",
+    "price": 489,
+    "oldPrice": 700,
+    "image": "/images/products/43.jpg",
+    "description": "Wine denim shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 44,
+    "name": "Emerald Ankle Leggings",
+    "category": "Leggings",
+    "price": 209,
+    "oldPrice": 350,
+    "image": "/images/products/44.jpg",
+    "description": "Emerald ankle leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 45,
+    "name": "Olive Denim Skirt",
+    "category": "Skirts",
+    "price": 449,
+    "oldPrice": 600,
+    "image": "/images/products/45.jpg",
+    "description": "Olive denim skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 46,
+    "name": "Midnight Navy Shrug",
+    "category": "Jackets",
+    "price": 1379,
+    "oldPrice": 2300,
+    "image": "/images/products/46.jpg",
+    "description": "Midnight Navy shrug. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 47,
+    "name": "Wine Anarkali Kurti",
+    "category": "Traditional Wear",
+    "price": 1579,
+    "oldPrice": 3150,
+    "image": "/images/products/47.jpg",
+    "description": "Wine anarkali kurti. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 48,
+    "name": "Emerald Sharara Set",
+    "category": "Ethnic Dresses",
+    "price": 1899,
+    "oldPrice": 3800,
+    "image": "/images/products/48.jpg",
+    "description": "Emerald sharara set. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 49,
+    "name": "Pearl White Cotton Saree",
+    "category": "Sarees",
+    "price": 2599,
+    "oldPrice": 5200,
+    "image": "/images/products/49.jpg",
+    "description": "Pearl White cotton saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 50,
+    "name": "Coral Puff Sleeve Top",
+    "category": "Women's Tops",
+    "price": 789,
+    "oldPrice": 1050,
+    "image": "/images/products/50.jpg",
+    "description": "Coral puff sleeve top. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 51,
+    "name": "Emerald Printed Tee",
+    "category": "T-Shirts",
+    "price": 629,
+    "oldPrice": 900,
+    "image": "/images/products/51.jpg",
+    "description": "Emerald printed tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 52,
+    "name": "Light Wash Wide-Leg Jeans",
+    "category": "Jeans",
+    "price": 1159,
+    "oldPrice": 1650,
+    "image": "/images/products/52.jpg",
+    "description": "Light Wash wide-leg jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 53,
+    "name": "Wine Paperbag Shorts",
+    "category": "Shorts",
+    "price": 589,
+    "oldPrice": 650,
+    "image": "/images/products/53.jpg",
+    "description": "Wine paperbag shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 54,
+    "name": "Coral Cotton Leggings",
+    "category": "Leggings",
+    "price": 179,
+    "oldPrice": 300,
+    "image": "/images/products/54.jpg",
+    "description": "Coral cotton leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 55,
+    "name": "Teal A-Line Skirt",
+    "category": "Skirts",
+    "price": 419,
+    "oldPrice": 600,
+    "image": "/images/products/55.jpg",
+    "description": "Teal a-line skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 56,
+    "name": "Coral Blazer",
+    "category": "Jackets",
+    "price": 1829,
+    "oldPrice": 2150,
+    "image": "/images/products/56.jpg",
+    "description": "Coral blazer. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 57,
+    "name": "Olive Straight Kurti",
+    "category": "Traditional Wear",
+    "price": 799,
+    "oldPrice": 1000,
+    "image": "/images/products/57.jpg",
+    "description": "Olive straight kurti. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 58,
+    "name": "Emerald Indo-Western Dress",
+    "category": "Ethnic Dresses",
+    "price": 3379,
+    "oldPrice": 3750,
+    "image": "/images/products/58.jpg",
+    "description": "Emerald indo-western dress. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 59,
+    "name": "Ivory Georgette Saree",
+    "category": "Sarees",
+    "price": 1789,
+    "oldPrice": 2100,
+    "image": "/images/products/59.jpg",
+    "description": "Ivory georgette saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 60,
+    "name": "Teal Crop Top",
+    "category": "Women's Tops",
+    "price": 1039,
+    "oldPrice": 1300,
+    "image": "/images/products/60.jpg",
+    "description": "Teal crop top. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 61,
+    "name": "Charcoal Graphic Tee",
+    "category": "T-Shirts",
+    "price": 279,
+    "oldPrice": 400,
+    "image": "/images/products/61.jpg",
+    "description": "Charcoal graphic tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 62,
+    "name": "Dark Indigo Mom Fit Jeans",
+    "category": "Jeans",
+    "price": 449,
+    "oldPrice": 900,
+    "image": "/images/products/62.jpg",
+    "description": "Dark Indigo mom fit jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 63,
+    "name": "Teal Cotton Shorts",
+    "category": "Shorts",
+    "price": 589,
+    "oldPrice": 650,
+    "image": "/images/products/63.jpg",
+    "description": "Teal cotton shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 64,
+    "name": "Royal Maroon Churidar Leggings",
+    "category": "Leggings",
+    "price": 599,
+    "oldPrice": 700,
+    "image": "/images/products/64.jpg",
+    "description": "Royal Maroon churidar leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 65,
+    "name": "Coral Wrap Skirt",
+    "category": "Skirts",
+    "price": 1219,
+    "oldPrice": 1350,
+    "image": "/images/products/65.jpg",
+    "description": "Coral wrap skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 66,
+    "name": "Olive Puffer Jacket",
+    "category": "Jackets",
+    "price": 1149,
+    "oldPrice": 1350,
+    "image": "/images/products/66.jpg",
+    "description": "Olive puffer jacket. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 67,
+    "name": "Emerald Palazzo Kurta Set",
+    "category": "Traditional Wear",
+    "price": 1649,
+    "oldPrice": 3300,
+    "image": "/images/products/67.jpg",
+    "description": "Emerald palazzo kurta set. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 68,
+    "name": "Olive Angrakha Dress",
+    "category": "Ethnic Dresses",
+    "price": 2519,
+    "oldPrice": 3150,
+    "image": "/images/products/68.jpg",
+    "description": "Olive angrakha dress. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 69,
+    "name": "Teal Banarasi Saree",
+    "category": "Sarees",
+    "price": 4549,
+    "oldPrice": 5350,
+    "image": "/images/products/69.jpg",
+    "description": "Teal banarasi saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 70,
+    "name": "Royal Maroon Satin Cami Top",
+    "category": "Women's Tops",
+    "price": 799,
+    "oldPrice": 1000,
+    "image": "/images/products/70.jpg",
+    "description": "Royal Maroon satin cami top. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 71,
+    "name": "Coral Oversized Tee",
+    "category": "T-Shirts",
+    "price": 429,
+    "oldPrice": 500,
+    "image": "/images/products/71.jpg",
+    "description": "Coral oversized tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 72,
+    "name": "Ice Blue Mom Fit Jeans",
+    "category": "Jeans",
+    "price": 599,
+    "oldPrice": 1000,
+    "image": "/images/products/72.jpg",
+    "description": "Ice Blue mom fit jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 73,
+    "name": "Charcoal Linen Shorts",
+    "category": "Shorts",
+    "price": 539,
+    "oldPrice": 900,
+    "image": "/images/products/73.jpg",
+    "description": "Charcoal linen shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 74,
+    "name": "Teal Cotton Leggings",
+    "category": "Leggings",
+    "price": 419,
+    "oldPrice": 700,
+    "image": "/images/products/74.jpg",
+    "description": "Teal cotton leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 75,
+    "name": "Pearl White Denim Skirt",
+    "category": "Skirts",
+    "price": 1259,
+    "oldPrice": 1400,
+    "image": "/images/products/75.jpg",
+    "description": "Pearl White denim skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 76,
+    "name": "Olive Blazer",
+    "category": "Jackets",
+    "price": 799,
+    "oldPrice": 1600,
+    "image": "/images/products/76.jpg",
+    "description": "Olive blazer. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 77,
+    "name": "Royal Maroon Chikankari Kurti",
+    "category": "Traditional Wear",
+    "price": 1039,
+    "oldPrice": 1150,
+    "image": "/images/products/77.jpg",
+    "description": "Royal Maroon chikankari kurti. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 78,
+    "name": "Sky Blue Anarkali Gown",
+    "category": "Ethnic Dresses",
+    "price": 1149,
+    "oldPrice": 1350,
+    "image": "/images/products/78.jpg",
+    "description": "Sky Blue anarkali gown. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 79,
+    "name": "Coral Chanderi Saree",
+    "category": "Sarees",
+    "price": 2249,
+    "oldPrice": 3750,
+    "image": "/images/products/79.jpg",
+    "description": "Coral chanderi saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 80,
+    "name": "Mustard Satin Cami Top",
+    "category": "Women's Tops",
+    "price": 399,
+    "oldPrice": 800,
+    "image": "/images/products/80.jpg",
+    "description": "Mustard satin cami top. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 81,
+    "name": "Midnight Navy Graphic Tee",
+    "category": "T-Shirts",
+    "price": 239,
+    "oldPrice": 350,
+    "image": "/images/products/81.jpg",
+    "description": "Midnight Navy graphic tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 82,
+    "name": "Jet Black Bootcut Jeans",
+    "category": "Jeans",
+    "price": 1609,
+    "oldPrice": 2150,
+    "image": "/images/products/82.jpg",
+    "description": "Jet Black bootcut jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 83,
+    "name": "Ivory Paperbag Shorts",
+    "category": "Shorts",
+    "price": 389,
+    "oldPrice": 550,
+    "image": "/images/products/83.jpg",
+    "description": "Ivory paperbag shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 84,
+    "name": "Wine Ankle Leggings",
+    "category": "Leggings",
+    "price": 229,
+    "oldPrice": 450,
+    "image": "/images/products/84.jpg",
+    "description": "Wine ankle leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "49% OFF"
+  },
+  {
+    "id": 85,
+    "name": "Olive Pleated Skirt",
+    "category": "Skirts",
+    "price": 549,
+    "oldPrice": 1100,
+    "image": "/images/products/85.jpg",
+    "description": "Olive pleated skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 86,
+    "name": "Sky Blue Cropped Jacket",
+    "category": "Jackets",
+    "price": 1139,
+    "oldPrice": 1900,
+    "image": "/images/products/86.jpg",
+    "description": "Sky Blue cropped jacket. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 87,
+    "name": "Lavender Chikankari Kurti",
+    "category": "Traditional Wear",
+    "price": 679,
+    "oldPrice": 800,
+    "image": "/images/products/87.jpg",
+    "description": "Lavender chikankari kurti. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 88,
+    "name": "Emerald Gharara Set",
+    "category": "Ethnic Dresses",
+    "price": 2029,
+    "oldPrice": 2900,
+    "image": "/images/products/88.jpg",
+    "description": "Emerald gharara set. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 89,
+    "name": "Midnight Navy Silk Saree",
+    "category": "Sarees",
+    "price": 2979,
+    "oldPrice": 5950,
+    "image": "/images/products/89.jpg",
+    "description": "Midnight Navy silk saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 90,
+    "name": "Emerald Satin Cami Top",
+    "category": "Women's Tops",
+    "price": 1079,
+    "oldPrice": 1350,
+    "image": "/images/products/90.jpg",
+    "description": "Emerald satin cami top. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 91,
+    "name": "Royal Maroon Printed Tee",
+    "category": "T-Shirts",
+    "price": 629,
+    "oldPrice": 900,
+    "image": "/images/products/91.jpg",
+    "description": "Royal Maroon printed tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 92,
+    "name": "Jet Black Mom Fit Jeans",
+    "category": "Jeans",
+    "price": 1289,
+    "oldPrice": 2150,
+    "image": "/images/products/92.jpg",
+    "description": "Jet Black mom fit jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 93,
+    "name": "Sky Blue Bermuda Shorts",
+    "category": "Shorts",
+    "price": 329,
+    "oldPrice": 550,
+    "image": "/images/products/93.jpg",
+    "description": "Sky Blue bermuda shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 94,
+    "name": "Pearl White Gym Leggings",
+    "category": "Leggings",
+    "price": 269,
+    "oldPrice": 450,
+    "image": "/images/products/94.jpg",
+    "description": "Pearl White gym leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 95,
+    "name": "Pearl White Tiered Skirt",
+    "category": "Skirts",
+    "price": 629,
+    "oldPrice": 1050,
+    "image": "/images/products/95.jpg",
+    "description": "Pearl White tiered skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 96,
+    "name": "Charcoal Puffer Jacket",
+    "category": "Jackets",
+    "price": 1489,
+    "oldPrice": 1750,
+    "image": "/images/products/96.jpg",
+    "description": "Charcoal puffer jacket. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 97,
+    "name": "Olive Embroidered Kurti",
+    "category": "Traditional Wear",
+    "price": 1619,
+    "oldPrice": 1900,
+    "image": "/images/products/97.jpg",
+    "description": "Olive embroidered kurti. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 98,
+    "name": "Royal Maroon Anarkali Gown",
+    "category": "Ethnic Dresses",
+    "price": 3559,
+    "oldPrice": 4450,
+    "image": "/images/products/98.jpg",
+    "description": "Royal Maroon anarkali gown. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 99,
+    "name": "Charcoal Banarasi Saree",
+    "category": "Sarees",
+    "price": 4499,
+    "oldPrice": 6000,
+    "image": "/images/products/99.jpg",
+    "description": "Charcoal banarasi saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 100,
+    "name": "Teal Ruffle Blouse",
+    "category": "Women's Tops",
+    "price": 739,
+    "oldPrice": 1050,
+    "image": "/images/products/100.jpg",
+    "description": "Teal ruffle blouse. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 101,
+    "name": "Sky Blue Slogan Tee",
+    "category": "T-Shirts",
+    "price": 849,
+    "oldPrice": 1000,
+    "image": "/images/products/101.jpg",
+    "description": "Sky Blue slogan tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 102,
+    "name": "Dark Indigo High-Rise Jeans",
+    "category": "Jeans",
+    "price": 1189,
+    "oldPrice": 1400,
+    "image": "/images/products/102.jpg",
+    "description": "Dark Indigo high-rise jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 103,
+    "name": "Peach Denim Shorts",
+    "category": "Shorts",
+    "price": 449,
+    "oldPrice": 500,
+    "image": "/images/products/103.jpg",
+    "description": "Peach denim shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 104,
+    "name": "Charcoal High-Waist Leggings",
+    "category": "Leggings",
+    "price": 599,
+    "oldPrice": 800,
+    "image": "/images/products/104.jpg",
+    "description": "Charcoal high-waist leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 105,
+    "name": "Rose Blush Midi Skirt",
+    "category": "Skirts",
+    "price": 809,
+    "oldPrice": 1350,
+    "image": "/images/products/105.jpg",
+    "description": "Rose Blush midi skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 106,
+    "name": "Mustard Bomber Jacket",
+    "category": "Jackets",
+    "price": 1699,
+    "oldPrice": 3400,
+    "image": "/images/products/106.jpg",
+    "description": "Mustard bomber jacket. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 107,
+    "name": "Teal Block Print Kurti",
+    "category": "Traditional Wear",
+    "price": 2059,
+    "oldPrice": 2750,
+    "image": "/images/products/107.jpg",
+    "description": "Teal block print kurti. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 108,
+    "name": "Royal Maroon Lehenga Set",
+    "category": "Ethnic Dresses",
+    "price": 2599,
+    "oldPrice": 3250,
+    "image": "/images/products/108.jpg",
+    "description": "Royal Maroon lehenga set. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 109,
+    "name": "Sage Chiffon Saree",
+    "category": "Sarees",
+    "price": 3279,
+    "oldPrice": 6550,
+    "image": "/images/products/109.jpg",
+    "description": "Sage chiffon saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 110,
+    "name": "Ivory Ruffle Blouse",
+    "category": "Women's Tops",
+    "price": 639,
+    "oldPrice": 850,
+    "image": "/images/products/110.jpg",
+    "description": "Ivory ruffle blouse. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 111,
+    "name": "Emerald Graphic Tee",
+    "category": "T-Shirts",
+    "price": 759,
+    "oldPrice": 950,
+    "image": "/images/products/111.jpg",
+    "description": "Emerald graphic tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 112,
+    "name": "Dark Indigo Flared Jeans",
+    "category": "Jeans",
+    "price": 749,
+    "oldPrice": 1500,
+    "image": "/images/products/112.jpg",
+    "description": "Dark Indigo flared jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 113,
+    "name": "Emerald Cotton Shorts",
+    "category": "Shorts",
+    "price": 479,
+    "oldPrice": 950,
+    "image": "/images/products/113.jpg",
+    "description": "Emerald cotton shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 114,
+    "name": "Midnight Navy Pencil Leggings",
+    "category": "Leggings",
+    "price": 589,
+    "oldPrice": 650,
+    "image": "/images/products/114.jpg",
+    "description": "Midnight Navy pencil leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 115,
+    "name": "Sage Mini Skirt",
+    "category": "Skirts",
+    "price": 639,
+    "oldPrice": 750,
+    "image": "/images/products/115.jpg",
+    "description": "Sage mini skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 116,
+    "name": "Mustard Puffer Jacket",
+    "category": "Jackets",
+    "price": 599,
+    "oldPrice": 1200,
+    "image": "/images/products/116.jpg",
+    "description": "Mustard puffer jacket. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 117,
+    "name": "Teal Festive Salwar Suit",
+    "category": "Traditional Wear",
+    "price": 859,
+    "oldPrice": 950,
+    "image": "/images/products/117.jpg",
+    "description": "Teal festive salwar suit. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 118,
+    "name": "Sage Flared Kurta Dress",
+    "category": "Ethnic Dresses",
+    "price": 1439,
+    "oldPrice": 1800,
+    "image": "/images/products/118.jpg",
+    "description": "Sage flared kurta dress. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 119,
+    "name": "Emerald Chanderi Saree",
+    "category": "Sarees",
+    "price": 3409,
+    "oldPrice": 4550,
+    "image": "/images/products/119.jpg",
+    "description": "Emerald chanderi saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 120,
+    "name": "Rose Blush Tie-Knot Top",
+    "category": "Women's Tops",
+    "price": 679,
+    "oldPrice": 850,
+    "image": "/images/products/120.jpg",
+    "description": "Rose Blush tie-knot top. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 121,
+    "name": "Midnight Navy Polo Tee",
+    "category": "T-Shirts",
+    "price": 589,
+    "oldPrice": 650,
+    "image": "/images/products/121.jpg",
+    "description": "Midnight Navy polo tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 122,
+    "name": "Classic Blue Bootcut Jeans",
+    "category": "Jeans",
+    "price": 1139,
+    "oldPrice": 1900,
+    "image": "/images/products/122.jpg",
+    "description": "Classic Blue bootcut jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 123,
+    "name": "Coral Denim Shorts",
+    "category": "Shorts",
+    "price": 409,
+    "oldPrice": 450,
+    "image": "/images/products/123.jpg",
+    "description": "Coral denim shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 124,
+    "name": "Midnight Navy High-Waist Leggings",
+    "category": "Leggings",
+    "price": 179,
+    "oldPrice": 350,
+    "image": "/images/products/124.jpg",
+    "description": "Midnight Navy high-waist leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "49% OFF"
+  },
+  {
+    "id": 125,
+    "name": "Ivory Denim Skirt",
+    "category": "Skirts",
+    "price": 959,
+    "oldPrice": 1600,
+    "image": "/images/products/125.jpg",
+    "description": "Ivory denim skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 126,
+    "name": "Wine Quilted Jacket",
+    "category": "Jackets",
+    "price": 1379,
+    "oldPrice": 2750,
+    "image": "/images/products/126.jpg",
+    "description": "Wine quilted jacket. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 127,
+    "name": "Sky Blue Straight Kurti",
+    "category": "Traditional Wear",
+    "price": 1119,
+    "oldPrice": 1400,
+    "image": "/images/products/127.jpg",
+    "description": "Sky Blue straight kurti. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 128,
+    "name": "Midnight Navy Kaftan Dress",
+    "category": "Ethnic Dresses",
+    "price": 1159,
+    "oldPrice": 1650,
+    "image": "/images/products/128.jpg",
+    "description": "Midnight Navy kaftan dress. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 129,
+    "name": "Lavender Chanderi Saree",
+    "category": "Sarees",
+    "price": 4279,
+    "oldPrice": 5700,
+    "image": "/images/products/129.jpg",
+    "description": "Lavender chanderi saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 130,
+    "name": "Peach Off-Shoulder Top",
+    "category": "Women's Tops",
+    "price": 1109,
+    "oldPrice": 1300,
+    "image": "/images/products/130.jpg",
+    "description": "Peach off-shoulder top. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 131,
+    "name": "Wine Printed Tee",
+    "category": "T-Shirts",
+    "price": 559,
+    "oldPrice": 700,
+    "image": "/images/products/131.jpg",
+    "description": "Wine printed tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 132,
+    "name": "Light Wash Bootcut Jeans",
+    "category": "Jeans",
+    "price": 1239,
+    "oldPrice": 1550,
+    "image": "/images/products/132.jpg",
+    "description": "Light Wash bootcut jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 133,
+    "name": "Sage Paperbag Shorts",
+    "category": "Shorts",
+    "price": 479,
+    "oldPrice": 800,
+    "image": "/images/products/133.jpg",
+    "description": "Sage paperbag shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 134,
+    "name": "Emerald Cotton Leggings",
+    "category": "Leggings",
+    "price": 339,
+    "oldPrice": 400,
+    "image": "/images/products/134.jpg",
+    "description": "Emerald cotton leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 135,
+    "name": "Sage Tiered Skirt",
+    "category": "Skirts",
+    "price": 839,
+    "oldPrice": 1200,
+    "image": "/images/products/135.jpg",
+    "description": "Sage tiered skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 136,
+    "name": "Royal Maroon Shrug",
+    "category": "Jackets",
+    "price": 1719,
+    "oldPrice": 2450,
+    "image": "/images/products/136.jpg",
+    "description": "Royal Maroon shrug. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 137,
+    "name": "Wine Block Print Kurti",
+    "category": "Traditional Wear",
+    "price": 859,
+    "oldPrice": 1150,
+    "image": "/images/products/137.jpg",
+    "description": "Wine block print kurti. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 138,
+    "name": "Lavender Flared Kurta Dress",
+    "category": "Ethnic Dresses",
+    "price": 2809,
+    "oldPrice": 3300,
+    "image": "/images/products/138.jpg",
+    "description": "Lavender flared kurta dress. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 139,
+    "name": "Charcoal Georgette Saree",
+    "category": "Sarees",
+    "price": 1119,
+    "oldPrice": 1600,
+    "image": "/images/products/139.jpg",
+    "description": "Charcoal georgette saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 140,
+    "name": "Sky Blue Puff Sleeve Top",
+    "category": "Women's Tops",
+    "price": 489,
+    "oldPrice": 650,
+    "image": "/images/products/140.jpg",
+    "description": "Sky Blue puff sleeve top. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 141,
+    "name": "Mustard Oversized Tee",
+    "category": "T-Shirts",
+    "price": 569,
+    "oldPrice": 950,
+    "image": "/images/products/141.jpg",
+    "description": "Mustard oversized tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 142,
+    "name": "Stone Grey Bootcut Jeans",
+    "category": "Jeans",
+    "price": 1579,
+    "oldPrice": 2250,
+    "image": "/images/products/142.jpg",
+    "description": "Stone Grey bootcut jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 143,
+    "name": "Wine Pleated Shorts",
+    "category": "Shorts",
+    "price": 479,
+    "oldPrice": 950,
+    "image": "/images/products/143.jpg",
+    "description": "Wine pleated shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 144,
+    "name": "Sky Blue Pencil Leggings",
+    "category": "Leggings",
+    "price": 399,
+    "oldPrice": 500,
+    "image": "/images/products/144.jpg",
+    "description": "Sky Blue pencil leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 145,
+    "name": "Sage Denim Skirt",
+    "category": "Skirts",
+    "price": 519,
+    "oldPrice": 650,
+    "image": "/images/products/145.jpg",
+    "description": "Sage denim skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 146,
+    "name": "Mustard Shrug",
+    "category": "Jackets",
+    "price": 1609,
+    "oldPrice": 2300,
+    "image": "/images/products/146.jpg",
+    "description": "Mustard shrug. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 147,
+    "name": "Coral Block Print Kurti",
+    "category": "Traditional Wear",
+    "price": 2169,
+    "oldPrice": 2550,
+    "image": "/images/products/147.jpg",
+    "description": "Coral block print kurti. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 148,
+    "name": "Pearl White Flared Kurta Dress",
+    "category": "Ethnic Dresses",
+    "price": 1819,
+    "oldPrice": 2600,
+    "image": "/images/products/148.jpg",
+    "description": "Pearl White flared kurta dress. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 149,
+    "name": "Olive Silk Saree",
+    "category": "Sarees",
+    "price": 3149,
+    "oldPrice": 6300,
+    "image": "/images/products/149.jpg",
+    "description": "Olive silk saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 150,
+    "name": "Coral Off-Shoulder Top",
+    "category": "Women's Tops",
+    "price": 809,
+    "oldPrice": 900,
+    "image": "/images/products/150.jpg",
+    "description": "Coral off-shoulder top. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 151,
+    "name": "Charcoal Printed Tee",
+    "category": "T-Shirts",
+    "price": 149,
+    "oldPrice": 300,
+    "image": "/images/products/151.jpg",
+    "description": "Charcoal printed tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 152,
+    "name": "Ice Blue Wide-Leg Jeans",
+    "category": "Jeans",
+    "price": 1239,
+    "oldPrice": 1550,
+    "image": "/images/products/152.jpg",
+    "description": "Ice Blue wide-leg jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 153,
+    "name": "Olive Bermuda Shorts",
+    "category": "Shorts",
+    "price": 559,
+    "oldPrice": 750,
+    "image": "/images/products/153.jpg",
+    "description": "Olive bermuda shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 154,
+    "name": "Ivory High-Waist Leggings",
+    "category": "Leggings",
+    "price": 399,
+    "oldPrice": 800,
+    "image": "/images/products/154.jpg",
+    "description": "Ivory high-waist leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 155,
+    "name": "Charcoal Pleated Skirt",
+    "category": "Skirts",
+    "price": 409,
+    "oldPrice": 550,
+    "image": "/images/products/155.jpg",
+    "description": "Charcoal pleated skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 156,
+    "name": "Pearl White Linen Jacket",
+    "category": "Jackets",
+    "price": 2639,
+    "oldPrice": 3100,
+    "image": "/images/products/156.jpg",
+    "description": "Pearl White linen jacket. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 157,
+    "name": "Wine Embroidered Kurti",
+    "category": "Traditional Wear",
+    "price": 2209,
+    "oldPrice": 2950,
+    "image": "/images/products/157.jpg",
+    "description": "Wine embroidered kurti. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 158,
+    "name": "Teal Anarkali Gown",
+    "category": "Ethnic Dresses",
+    "price": 1559,
+    "oldPrice": 1950,
+    "image": "/images/products/158.jpg",
+    "description": "Teal anarkali gown. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 159,
+    "name": "Sky Blue Georgette Saree",
+    "category": "Sarees",
+    "price": 2559,
+    "oldPrice": 3650,
+    "image": "/images/products/159.jpg",
+    "description": "Sky Blue georgette saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 160,
+    "name": "Mustard Off-Shoulder Top",
+    "category": "Women's Tops",
+    "price": 789,
+    "oldPrice": 1050,
+    "image": "/images/products/160.jpg",
+    "description": "Mustard off-shoulder top. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 161,
+    "name": "Rose Blush Graphic Tee",
+    "category": "T-Shirts",
+    "price": 629,
+    "oldPrice": 900,
+    "image": "/images/products/161.jpg",
+    "description": "Rose Blush graphic tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 162,
+    "name": "Stone Grey High-Rise Jeans",
+    "category": "Jeans",
+    "price": 1979,
+    "oldPrice": 2200,
+    "image": "/images/products/162.jpg",
+    "description": "Stone Grey high-rise jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 163,
+    "name": "Sky Blue Cycling Shorts",
+    "category": "Shorts",
+    "price": 529,
+    "oldPrice": 700,
+    "image": "/images/products/163.jpg",
+    "description": "Sky Blue cycling shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 164,
+    "name": "Charcoal Cotton Leggings",
+    "category": "Leggings",
+    "price": 299,
+    "oldPrice": 500,
+    "image": "/images/products/164.jpg",
+    "description": "Charcoal cotton leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 165,
+    "name": "Mustard Mini Skirt",
+    "category": "Skirts",
+    "price": 1389,
+    "oldPrice": 1850,
+    "image": "/images/products/165.jpg",
+    "description": "Mustard mini skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 166,
+    "name": "Sage Blazer",
+    "category": "Jackets",
+    "price": 1529,
+    "oldPrice": 2550,
+    "image": "/images/products/166.jpg",
+    "description": "Sage blazer. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 167,
+    "name": "Ivory Palazzo Kurta Set",
+    "category": "Traditional Wear",
+    "price": 559,
+    "oldPrice": 800,
+    "image": "/images/products/167.jpg",
+    "description": "Ivory palazzo kurta set. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 168,
+    "name": "Teal Sharara Set",
+    "category": "Ethnic Dresses",
+    "price": 2119,
+    "oldPrice": 2650,
+    "image": "/images/products/168.jpg",
+    "description": "Teal sharara set. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 169,
+    "name": "Charcoal Silk Saree",
+    "category": "Sarees",
+    "price": 999,
+    "oldPrice": 1250,
+    "image": "/images/products/169.jpg",
+    "description": "Charcoal silk saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 170,
+    "name": "Charcoal Off-Shoulder Top",
+    "category": "Women's Tops",
+    "price": 359,
+    "oldPrice": 600,
+    "image": "/images/products/170.jpg",
+    "description": "Charcoal off-shoulder top. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 171,
+    "name": "Sky Blue Striped Tee",
+    "category": "T-Shirts",
+    "price": 809,
+    "oldPrice": 900,
+    "image": "/images/products/171.jpg",
+    "description": "Sky Blue striped tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 172,
+    "name": "Stone Grey Wide-Leg Jeans",
+    "category": "Jeans",
+    "price": 1349,
+    "oldPrice": 1500,
+    "image": "/images/products/172.jpg",
+    "description": "Stone Grey wide-leg jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 173,
+    "name": "Coral Cotton Shorts",
+    "category": "Shorts",
+    "price": 769,
+    "oldPrice": 850,
+    "image": "/images/products/173.jpg",
+    "description": "Coral cotton shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 174,
+    "name": "Mustard Ankle Leggings",
+    "category": "Leggings",
+    "price": 339,
+    "oldPrice": 450,
+    "image": "/images/products/174.jpg",
+    "description": "Mustard ankle leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 175,
+    "name": "Mustard Tiered Skirt",
+    "category": "Skirts",
+    "price": 1089,
+    "oldPrice": 1450,
+    "image": "/images/products/175.jpg",
+    "description": "Mustard tiered skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 176,
+    "name": "Lavender Bomber Jacket",
+    "category": "Jackets",
+    "price": 2639,
+    "oldPrice": 3100,
+    "image": "/images/products/176.jpg",
+    "description": "Lavender bomber jacket. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 177,
+    "name": "Rose Blush Straight Kurti",
+    "category": "Traditional Wear",
+    "price": 1399,
+    "oldPrice": 2000,
+    "image": "/images/products/177.jpg",
+    "description": "Rose Blush straight kurti. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 178,
+    "name": "Olive Indo-Western Dress",
+    "category": "Ethnic Dresses",
+    "price": 1359,
+    "oldPrice": 1700,
+    "image": "/images/products/178.jpg",
+    "description": "Olive indo-western dress. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 179,
+    "name": "Mustard Silk Saree",
+    "category": "Sarees",
+    "price": 1939,
+    "oldPrice": 2150,
+    "image": "/images/products/179.jpg",
+    "description": "Mustard silk saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 180,
+    "name": "Sky Blue Wrap Top",
+    "category": "Women's Tops",
+    "price": 1009,
+    "oldPrice": 1350,
+    "image": "/images/products/180.jpg",
+    "description": "Sky Blue wrap top. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 181,
+    "name": "Wine Oversized Tee",
+    "category": "T-Shirts",
+    "price": 329,
+    "oldPrice": 650,
+    "image": "/images/products/181.jpg",
+    "description": "Wine oversized tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "49% OFF"
+  },
+  {
+    "id": 182,
+    "name": "Jet Black Wide-Leg Jeans",
+    "category": "Jeans",
+    "price": 699,
+    "oldPrice": 1000,
+    "image": "/images/products/182.jpg",
+    "description": "Jet Black wide-leg jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 183,
+    "name": "Mustard Denim Shorts",
+    "category": "Shorts",
+    "price": 529,
+    "oldPrice": 1050,
+    "image": "/images/products/183.jpg",
+    "description": "Mustard denim shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 184,
+    "name": "Lavender Churidar Leggings",
+    "category": "Leggings",
+    "price": 399,
+    "oldPrice": 800,
+    "image": "/images/products/184.jpg",
+    "description": "Lavender churidar leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 185,
+    "name": "Midnight Navy Pleated Skirt",
+    "category": "Skirts",
+    "price": 899,
+    "oldPrice": 1800,
+    "image": "/images/products/185.jpg",
+    "description": "Midnight Navy pleated skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 186,
+    "name": "Wine Blazer",
+    "category": "Jackets",
+    "price": 1079,
+    "oldPrice": 2150,
+    "image": "/images/products/186.jpg",
+    "description": "Wine blazer. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 187,
+    "name": "Lavender Anarkali Kurti",
+    "category": "Traditional Wear",
+    "price": 1009,
+    "oldPrice": 1450,
+    "image": "/images/products/187.jpg",
+    "description": "Lavender anarkali kurti. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 188,
+    "name": "Pearl White Anarkali Gown",
+    "category": "Ethnic Dresses",
+    "price": 3559,
+    "oldPrice": 3950,
+    "image": "/images/products/188.jpg",
+    "description": "Pearl White anarkali gown. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 189,
+    "name": "Midnight Navy Kanjivaram Saree",
+    "category": "Sarees",
+    "price": 749,
+    "oldPrice": 1000,
+    "image": "/images/products/189.jpg",
+    "description": "Midnight Navy kanjivaram saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 190,
+    "name": "Teal Puff Sleeve Top",
+    "category": "Women's Tops",
+    "price": 979,
+    "oldPrice": 1150,
+    "image": "/images/products/190.jpg",
+    "description": "Teal puff sleeve top. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 191,
+    "name": "Midnight Navy Oversized Tee",
+    "category": "T-Shirts",
+    "price": 769,
+    "oldPrice": 850,
+    "image": "/images/products/191.jpg",
+    "description": "Midnight Navy oversized tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 192,
+    "name": "Stone Grey Mom Fit Jeans",
+    "category": "Jeans",
+    "price": 1279,
+    "oldPrice": 1700,
+    "image": "/images/products/192.jpg",
+    "description": "Stone Grey mom fit jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 193,
+    "name": "Teal Pleated Shorts",
+    "category": "Shorts",
+    "price": 899,
+    "oldPrice": 1000,
+    "image": "/images/products/193.jpg",
+    "description": "Teal pleated shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 194,
+    "name": "Sage Ankle Leggings",
+    "category": "Leggings",
+    "price": 299,
+    "oldPrice": 400,
+    "image": "/images/products/194.jpg",
+    "description": "Sage ankle leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 195,
+    "name": "Peach Pleated Skirt",
+    "category": "Skirts",
+    "price": 829,
+    "oldPrice": 1100,
+    "image": "/images/products/195.jpg",
+    "description": "Peach pleated skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 196,
+    "name": "Sage Shrug",
+    "category": "Jackets",
+    "price": 679,
+    "oldPrice": 1350,
+    "image": "/images/products/196.jpg",
+    "description": "Sage shrug. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 197,
+    "name": "Rose Blush Palazzo Kurta Set",
+    "category": "Traditional Wear",
+    "price": 1759,
+    "oldPrice": 1950,
+    "image": "/images/products/197.jpg",
+    "description": "Rose Blush palazzo kurta set. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 198,
+    "name": "Ivory Kaftan Dress",
+    "category": "Ethnic Dresses",
+    "price": 1509,
+    "oldPrice": 2150,
+    "image": "/images/products/198.jpg",
+    "description": "Ivory kaftan dress. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 199,
+    "name": "Ivory Organza Saree",
+    "category": "Sarees",
+    "price": 3149,
+    "oldPrice": 6300,
+    "image": "/images/products/199.jpg",
+    "description": "Ivory organza saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 200,
+    "name": "Mustard Peplum Top",
+    "category": "Women's Tops",
+    "price": 679,
+    "oldPrice": 750,
+    "image": "/images/products/200.jpg",
+    "description": "Mustard peplum top. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 201,
+    "name": "Rose Blush Striped Tee",
+    "category": "T-Shirts",
+    "price": 639,
+    "oldPrice": 850,
+    "image": "/images/products/201.jpg",
+    "description": "Rose Blush striped tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 202,
+    "name": "Stone Grey Flared Jeans",
+    "category": "Jeans",
+    "price": 1539,
+    "oldPrice": 2050,
+    "image": "/images/products/202.jpg",
+    "description": "Stone Grey flared jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 203,
+    "name": "Peach Cotton Shorts",
+    "category": "Shorts",
+    "price": 759,
+    "oldPrice": 950,
+    "image": "/images/products/203.jpg",
+    "description": "Peach cotton shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 204,
+    "name": "Pearl White Stretch Leggings",
+    "category": "Leggings",
+    "price": 179,
+    "oldPrice": 350,
+    "image": "/images/products/204.jpg",
+    "description": "Pearl White stretch leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 205,
+    "name": "Coral A-Line Skirt",
+    "category": "Skirts",
+    "price": 489,
+    "oldPrice": 650,
+    "image": "/images/products/205.jpg",
+    "description": "Coral a-line skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 206,
+    "name": "Sky Blue Quilted Jacket",
+    "category": "Jackets",
+    "price": 1099,
+    "oldPrice": 2200,
+    "image": "/images/products/206.jpg",
+    "description": "Sky Blue quilted jacket. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 207,
+    "name": "Royal Maroon Straight Kurti",
+    "category": "Traditional Wear",
+    "price": 1839,
+    "oldPrice": 2450,
+    "image": "/images/products/207.jpg",
+    "description": "Royal Maroon straight kurti. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 208,
+    "name": "Midnight Navy Angrakha Dress",
+    "category": "Ethnic Dresses",
+    "price": 1619,
+    "oldPrice": 2700,
+    "image": "/images/products/208.jpg",
+    "description": "Midnight Navy angrakha dress. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 209,
+    "name": "Mustard Chanderi Saree",
+    "category": "Sarees",
+    "price": 4499,
+    "oldPrice": 6000,
+    "image": "/images/products/209.jpg",
+    "description": "Mustard chanderi saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 210,
+    "name": "Wine Wrap Top",
+    "category": "Women's Tops",
+    "price": 389,
+    "oldPrice": 550,
+    "image": "/images/products/210.jpg",
+    "description": "Wine wrap top. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 211,
+    "name": "Olive Polo Tee",
+    "category": "T-Shirts",
+    "price": 199,
+    "oldPrice": 400,
+    "image": "/images/products/211.jpg",
+    "description": "Olive polo tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 212,
+    "name": "Ice Blue High-Rise Jeans",
+    "category": "Jeans",
+    "price": 949,
+    "oldPrice": 1050,
+    "image": "/images/products/212.jpg",
+    "description": "Ice Blue high-rise jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 213,
+    "name": "Emerald Linen Shorts",
+    "category": "Shorts",
+    "price": 719,
+    "oldPrice": 900,
+    "image": "/images/products/213.jpg",
+    "description": "Emerald linen shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 214,
+    "name": "Olive High-Waist Leggings",
+    "category": "Leggings",
+    "price": 279,
+    "oldPrice": 550,
+    "image": "/images/products/214.jpg",
+    "description": "Olive high-waist leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "49% OFF"
+  },
+  {
+    "id": 215,
+    "name": "Lavender Tiered Skirt",
+    "category": "Skirts",
+    "price": 789,
+    "oldPrice": 1050,
+    "image": "/images/products/215.jpg",
+    "description": "Lavender tiered skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 216,
+    "name": "Pearl White Denim Jacket",
+    "category": "Jackets",
+    "price": 2249,
+    "oldPrice": 3000,
+    "image": "/images/products/216.jpg",
+    "description": "Pearl White denim jacket. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 217,
+    "name": "Emerald Anarkali Kurti",
+    "category": "Traditional Wear",
+    "price": 1579,
+    "oldPrice": 3150,
+    "image": "/images/products/217.jpg",
+    "description": "Emerald anarkali kurti. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 218,
+    "name": "Midnight Navy Sharara Set",
+    "category": "Ethnic Dresses",
+    "price": 3599,
+    "oldPrice": 4000,
+    "image": "/images/products/218.jpg",
+    "description": "Midnight Navy sharara set. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 219,
+    "name": "Coral Banarasi Saree",
+    "category": "Sarees",
+    "price": 5099,
+    "oldPrice": 6800,
+    "image": "/images/products/219.jpg",
+    "description": "Coral banarasi saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 220,
+    "name": "Olive Ruffle Blouse",
+    "category": "Women's Tops",
+    "price": 1039,
+    "oldPrice": 1150,
+    "image": "/images/products/220.jpg",
+    "description": "Olive ruffle blouse. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 221,
+    "name": "Pearl White Graphic Tee",
+    "category": "T-Shirts",
+    "price": 509,
+    "oldPrice": 600,
+    "image": "/images/products/221.jpg",
+    "description": "Pearl White graphic tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 222,
+    "name": "Classic Blue Wide-Leg Jeans",
+    "category": "Jeans",
+    "price": 1759,
+    "oldPrice": 2200,
+    "image": "/images/products/222.jpg",
+    "description": "Classic Blue wide-leg jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 223,
+    "name": "Royal Maroon Paperbag Shorts",
+    "category": "Shorts",
+    "price": 419,
+    "oldPrice": 600,
+    "image": "/images/products/223.jpg",
+    "description": "Royal Maroon paperbag shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 224,
+    "name": "Charcoal Pencil Leggings",
+    "category": "Leggings",
+    "price": 329,
+    "oldPrice": 650,
+    "image": "/images/products/224.jpg",
+    "description": "Charcoal pencil leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "49% OFF"
+  },
+  {
+    "id": 225,
+    "name": "Lavender Satin Skirt",
+    "category": "Skirts",
+    "price": 899,
+    "oldPrice": 1200,
+    "image": "/images/products/225.jpg",
+    "description": "Lavender satin skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 226,
+    "name": "Sage Cropped Jacket",
+    "category": "Jackets",
+    "price": 779,
+    "oldPrice": 1300,
+    "image": "/images/products/226.jpg",
+    "description": "Sage cropped jacket. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 227,
+    "name": "Charcoal Festive Salwar Suit",
+    "category": "Traditional Wear",
+    "price": 979,
+    "oldPrice": 1950,
+    "image": "/images/products/227.jpg",
+    "description": "Charcoal festive salwar suit. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 228,
+    "name": "Wine Flared Kurta Dress",
+    "category": "Ethnic Dresses",
+    "price": 1829,
+    "oldPrice": 3050,
+    "image": "/images/products/228.jpg",
+    "description": "Wine flared kurta dress. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 229,
+    "name": "Royal Maroon Silk Saree",
+    "category": "Sarees",
+    "price": 1799,
+    "oldPrice": 2250,
+    "image": "/images/products/229.jpg",
+    "description": "Royal Maroon silk saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 230,
+    "name": "Sage Peplum Top",
+    "category": "Women's Tops",
+    "price": 769,
+    "oldPrice": 850,
+    "image": "/images/products/230.jpg",
+    "description": "Sage peplum top. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 231,
+    "name": "Ivory Boxy Tee",
+    "category": "T-Shirts",
+    "price": 279,
+    "oldPrice": 550,
+    "image": "/images/products/231.jpg",
+    "description": "Ivory boxy tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "49% OFF"
+  },
+  {
+    "id": 232,
+    "name": "Jet Black Boyfriend Jeans",
+    "category": "Jeans",
+    "price": 1159,
+    "oldPrice": 1550,
+    "image": "/images/products/232.jpg",
+    "description": "Jet Black boyfriend jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 233,
+    "name": "Midnight Navy Pleated Shorts",
+    "category": "Shorts",
+    "price": 319,
+    "oldPrice": 450,
+    "image": "/images/products/233.jpg",
+    "description": "Midnight Navy pleated shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 234,
+    "name": "Olive Pencil Leggings",
+    "category": "Leggings",
+    "price": 299,
+    "oldPrice": 500,
+    "image": "/images/products/234.jpg",
+    "description": "Olive pencil leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 235,
+    "name": "Pearl White A-Line Skirt",
+    "category": "Skirts",
+    "price": 599,
+    "oldPrice": 850,
+    "image": "/images/products/235.jpg",
+    "description": "Pearl White a-line skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 236,
+    "name": "Pearl White Quilted Jacket",
+    "category": "Jackets",
+    "price": 1479,
+    "oldPrice": 1850,
+    "image": "/images/products/236.jpg",
+    "description": "Pearl White quilted jacket. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 237,
+    "name": "Sage Chikankari Kurti",
+    "category": "Traditional Wear",
+    "price": 1389,
+    "oldPrice": 1850,
+    "image": "/images/products/237.jpg",
+    "description": "Sage chikankari kurti. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 238,
+    "name": "Olive Flared Kurta Dress",
+    "category": "Ethnic Dresses",
+    "price": 3149,
+    "oldPrice": 3500,
+    "image": "/images/products/238.jpg",
+    "description": "Olive flared kurta dress. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 239,
+    "name": "Ivory Cotton Saree",
+    "category": "Sarees",
+    "price": 1399,
+    "oldPrice": 1650,
+    "image": "/images/products/239.jpg",
+    "description": "Ivory cotton saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 240,
+    "name": "Coral Ruffle Blouse",
+    "category": "Women's Tops",
+    "price": 599,
+    "oldPrice": 1000,
+    "image": "/images/products/240.jpg",
+    "description": "Coral ruffle blouse. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 241,
+    "name": "Pearl White Boxy Tee",
+    "category": "T-Shirts",
+    "price": 599,
+    "oldPrice": 850,
+    "image": "/images/products/241.jpg",
+    "description": "Pearl White boxy tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 242,
+    "name": "Dark Indigo Bootcut Jeans",
+    "category": "Jeans",
+    "price": 1229,
+    "oldPrice": 1450,
+    "image": "/images/products/242.jpg",
+    "description": "Dark Indigo bootcut jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 243,
+    "name": "Ivory Cotton Shorts",
+    "category": "Shorts",
+    "price": 949,
+    "oldPrice": 1050,
+    "image": "/images/products/243.jpg",
+    "description": "Ivory cotton shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 244,
+    "name": "Midnight Navy Stretch Leggings",
+    "category": "Leggings",
+    "price": 329,
+    "oldPrice": 650,
+    "image": "/images/products/244.jpg",
+    "description": "Midnight Navy stretch leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "49% OFF"
+  },
+  {
+    "id": 245,
+    "name": "Emerald Wrap Skirt",
+    "category": "Skirts",
+    "price": 979,
+    "oldPrice": 1400,
+    "image": "/images/products/245.jpg",
+    "description": "Emerald wrap skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 246,
+    "name": "Lavender Puffer Jacket",
+    "category": "Jackets",
+    "price": 1679,
+    "oldPrice": 2100,
+    "image": "/images/products/246.jpg",
+    "description": "Lavender puffer jacket. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 247,
+    "name": "Mustard Festive Salwar Suit",
+    "category": "Traditional Wear",
+    "price": 929,
+    "oldPrice": 1850,
+    "image": "/images/products/247.jpg",
+    "description": "Mustard festive salwar suit. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 248,
+    "name": "Sky Blue Lehenga Set",
+    "category": "Ethnic Dresses",
+    "price": 2839,
+    "oldPrice": 3150,
+    "image": "/images/products/248.jpg",
+    "description": "Sky Blue lehenga set. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 249,
+    "name": "Charcoal Chiffon Saree",
+    "category": "Sarees",
+    "price": 3639,
+    "oldPrice": 5200,
+    "image": "/images/products/249.jpg",
+    "description": "Charcoal chiffon saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 250,
+    "name": "Ivory Crop Top",
+    "category": "Women's Tops",
+    "price": 379,
+    "oldPrice": 500,
+    "image": "/images/products/250.jpg",
+    "description": "Ivory crop top. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 251,
+    "name": "Sage Boxy Tee",
+    "category": "T-Shirts",
+    "price": 449,
+    "oldPrice": 900,
+    "image": "/images/products/251.jpg",
+    "description": "Sage boxy tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 252,
+    "name": "Stone Grey Boyfriend Jeans",
+    "category": "Jeans",
+    "price": 799,
+    "oldPrice": 1000,
+    "image": "/images/products/252.jpg",
+    "description": "Stone Grey boyfriend jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 253,
+    "name": "Sage Linen Shorts",
+    "category": "Shorts",
+    "price": 709,
+    "oldPrice": 950,
+    "image": "/images/products/253.jpg",
+    "description": "Sage linen shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 254,
+    "name": "Emerald Stretch Leggings",
+    "category": "Leggings",
+    "price": 279,
+    "oldPrice": 350,
+    "image": "/images/products/254.jpg",
+    "description": "Emerald stretch leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 255,
+    "name": "Royal Maroon Pleated Skirt",
+    "category": "Skirts",
+    "price": 1019,
+    "oldPrice": 1700,
+    "image": "/images/products/255.jpg",
+    "description": "Royal Maroon pleated skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 256,
+    "name": "Peach Quilted Jacket",
+    "category": "Jackets",
+    "price": 1569,
+    "oldPrice": 1850,
+    "image": "/images/products/256.jpg",
+    "description": "Peach quilted jacket. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 257,
+    "name": "Sage Block Print Kurti",
+    "category": "Traditional Wear",
+    "price": 1989,
+    "oldPrice": 2850,
+    "image": "/images/products/257.jpg",
+    "description": "Sage block print kurti. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 258,
+    "name": "Rose Blush Angrakha Dress",
+    "category": "Ethnic Dresses",
+    "price": 2119,
+    "oldPrice": 2350,
+    "image": "/images/products/258.jpg",
+    "description": "Rose Blush angrakha dress. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 259,
+    "name": "Sage Cotton Saree",
+    "category": "Sarees",
+    "price": 4099,
+    "oldPrice": 4550,
+    "image": "/images/products/259.jpg",
+    "description": "Sage cotton saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 260,
+    "name": "Olive Tie-Knot Top",
+    "category": "Women's Tops",
+    "price": 789,
+    "oldPrice": 1050,
+    "image": "/images/products/260.jpg",
+    "description": "Olive tie-knot top. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 261,
+    "name": "Coral Polo Tee",
+    "category": "T-Shirts",
+    "price": 299,
+    "oldPrice": 500,
+    "image": "/images/products/261.jpg",
+    "description": "Coral polo tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 262,
+    "name": "Ice Blue Straight Jeans",
+    "category": "Jeans",
+    "price": 1189,
+    "oldPrice": 1700,
+    "image": "/images/products/262.jpg",
+    "description": "Ice Blue straight jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 263,
+    "name": "Pearl White Linen Shorts",
+    "category": "Shorts",
+    "price": 199,
+    "oldPrice": 400,
+    "image": "/images/products/263.jpg",
+    "description": "Pearl White linen shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 264,
+    "name": "Ivory Churidar Leggings",
+    "category": "Leggings",
+    "price": 449,
+    "oldPrice": 600,
+    "image": "/images/products/264.jpg",
+    "description": "Ivory churidar leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 265,
+    "name": "Wine Tiered Skirt",
+    "category": "Skirts",
+    "price": 1619,
+    "oldPrice": 1900,
+    "image": "/images/products/265.jpg",
+    "description": "Wine tiered skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 266,
+    "name": "Sky Blue Linen Jacket",
+    "category": "Jackets",
+    "price": 1959,
+    "oldPrice": 2800,
+    "image": "/images/products/266.jpg",
+    "description": "Sky Blue linen jacket. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 267,
+    "name": "Midnight Navy Block Print Kurti",
+    "category": "Traditional Wear",
+    "price": 1149,
+    "oldPrice": 1350,
+    "image": "/images/products/267.jpg",
+    "description": "Midnight Navy block print kurti. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 268,
+    "name": "Olive Kaftan Dress",
+    "category": "Ethnic Dresses",
+    "price": 3299,
+    "oldPrice": 4400,
+    "image": "/images/products/268.jpg",
+    "description": "Olive kaftan dress. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 269,
+    "name": "Sage Kanjivaram Saree",
+    "category": "Sarees",
+    "price": 959,
+    "oldPrice": 1600,
+    "image": "/images/products/269.jpg",
+    "description": "Sage kanjivaram saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 270,
+    "name": "Sage Tie-Knot Top",
+    "category": "Women's Tops",
+    "price": 479,
+    "oldPrice": 600,
+    "image": "/images/products/270.jpg",
+    "description": "Sage tie-knot top. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 271,
+    "name": "Sage Graphic Tee",
+    "category": "T-Shirts",
+    "price": 209,
+    "oldPrice": 300,
+    "image": "/images/products/271.jpg",
+    "description": "Sage graphic tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 272,
+    "name": "Ice Blue Flared Jeans",
+    "category": "Jeans",
+    "price": 1279,
+    "oldPrice": 1500,
+    "image": "/images/products/272.jpg",
+    "description": "Ice Blue flared jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 273,
+    "name": "Olive Cotton Shorts",
+    "category": "Shorts",
+    "price": 229,
+    "oldPrice": 450,
+    "image": "/images/products/273.jpg",
+    "description": "Olive cotton shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "49% OFF"
+  },
+  {
+    "id": 274,
+    "name": "Peach Ankle Leggings",
+    "category": "Leggings",
+    "price": 639,
+    "oldPrice": 800,
+    "image": "/images/products/274.jpg",
+    "description": "Peach ankle leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 275,
+    "name": "Sky Blue Wrap Skirt",
+    "category": "Skirts",
+    "price": 499,
+    "oldPrice": 1000,
+    "image": "/images/products/275.jpg",
+    "description": "Sky Blue wrap skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 276,
+    "name": "Coral Shrug",
+    "category": "Jackets",
+    "price": 1179,
+    "oldPrice": 2350,
+    "image": "/images/products/276.jpg",
+    "description": "Coral shrug. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 277,
+    "name": "Charcoal Chikankari Kurti",
+    "category": "Traditional Wear",
+    "price": 1139,
+    "oldPrice": 1900,
+    "image": "/images/products/277.jpg",
+    "description": "Charcoal chikankari kurti. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 278,
+    "name": "Ivory Flared Kurta Dress",
+    "category": "Ethnic Dresses",
+    "price": 1199,
+    "oldPrice": 1500,
+    "image": "/images/products/278.jpg",
+    "description": "Ivory flared kurta dress. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 279,
+    "name": "Sage Georgette Saree",
+    "category": "Sarees",
+    "price": 2279,
+    "oldPrice": 2850,
+    "image": "/images/products/279.jpg",
+    "description": "Sage georgette saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 280,
+    "name": "Ivory Wrap Top",
+    "category": "Women's Tops",
+    "price": 939,
+    "oldPrice": 1250,
+    "image": "/images/products/280.jpg",
+    "description": "Ivory wrap top. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 281,
+    "name": "Ivory Oversized Tee",
+    "category": "T-Shirts",
+    "price": 319,
+    "oldPrice": 400,
+    "image": "/images/products/281.jpg",
+    "description": "Ivory oversized tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 282,
+    "name": "Classic Blue Skinny Jeans",
+    "category": "Jeans",
+    "price": 1159,
+    "oldPrice": 1650,
+    "image": "/images/products/282.jpg",
+    "description": "Classic Blue skinny jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 283,
+    "name": "Royal Maroon Linen Shorts",
+    "category": "Shorts",
+    "price": 279,
+    "oldPrice": 550,
+    "image": "/images/products/283.jpg",
+    "description": "Royal Maroon linen shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "49% OFF"
+  },
+  {
+    "id": 284,
+    "name": "Emerald Printed Leggings",
+    "category": "Leggings",
+    "price": 479,
+    "oldPrice": 800,
+    "image": "/images/products/284.jpg",
+    "description": "Emerald printed leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 285,
+    "name": "Peach A-Line Skirt",
+    "category": "Skirts",
+    "price": 1479,
+    "oldPrice": 1850,
+    "image": "/images/products/285.jpg",
+    "description": "Peach a-line skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 286,
+    "name": "Rose Blush Cropped Jacket",
+    "category": "Jackets",
+    "price": 1759,
+    "oldPrice": 2200,
+    "image": "/images/products/286.jpg",
+    "description": "Rose Blush cropped jacket. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 287,
+    "name": "Sage Straight Kurti",
+    "category": "Traditional Wear",
+    "price": 939,
+    "oldPrice": 1250,
+    "image": "/images/products/287.jpg",
+    "description": "Sage straight kurti. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 288,
+    "name": "Sky Blue Flared Kurta Dress",
+    "category": "Ethnic Dresses",
+    "price": 3529,
+    "oldPrice": 4150,
+    "image": "/images/products/288.jpg",
+    "description": "Sky Blue flared kurta dress. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 289,
+    "name": "Peach Silk Saree",
+    "category": "Sarees",
+    "price": 3919,
+    "oldPrice": 4900,
+    "image": "/images/products/289.jpg",
+    "description": "Peach silk saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 290,
+    "name": "Coral Satin Cami Top",
+    "category": "Women's Tops",
+    "price": 479,
+    "oldPrice": 950,
+    "image": "/images/products/290.jpg",
+    "description": "Coral satin cami top. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 291,
+    "name": "Wine Polo Tee",
+    "category": "T-Shirts",
+    "price": 469,
+    "oldPrice": 550,
+    "image": "/images/products/291.jpg",
+    "description": "Wine polo tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 292,
+    "name": "Light Wash Mom Fit Jeans",
+    "category": "Jeans",
+    "price": 1149,
+    "oldPrice": 2300,
+    "image": "/images/products/292.jpg",
+    "description": "Light Wash mom fit jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 293,
+    "name": "Royal Maroon Denim Shorts",
+    "category": "Shorts",
+    "price": 429,
+    "oldPrice": 500,
+    "image": "/images/products/293.jpg",
+    "description": "Royal Maroon denim shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 294,
+    "name": "Mustard High-Waist Leggings",
+    "category": "Leggings",
+    "price": 639,
+    "oldPrice": 850,
+    "image": "/images/products/294.jpg",
+    "description": "Mustard high-waist leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 295,
+    "name": "Ivory Satin Skirt",
+    "category": "Skirts",
+    "price": 629,
+    "oldPrice": 1050,
+    "image": "/images/products/295.jpg",
+    "description": "Ivory satin skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 296,
+    "name": "Wine Bomber Jacket",
+    "category": "Jackets",
+    "price": 939,
+    "oldPrice": 1100,
+    "image": "/images/products/296.jpg",
+    "description": "Wine bomber jacket. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 297,
+    "name": "Mustard Straight Kurti",
+    "category": "Traditional Wear",
+    "price": 1239,
+    "oldPrice": 1550,
+    "image": "/images/products/297.jpg",
+    "description": "Mustard straight kurti. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 298,
+    "name": "Mustard Angrakha Dress",
+    "category": "Ethnic Dresses",
+    "price": 2979,
+    "oldPrice": 3500,
+    "image": "/images/products/298.jpg",
+    "description": "Mustard angrakha dress. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 299,
+    "name": "Ivory Kanjivaram Saree",
+    "category": "Sarees",
+    "price": 1439,
+    "oldPrice": 1800,
+    "image": "/images/products/299.jpg",
+    "description": "Ivory kanjivaram saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 300,
+    "name": "Royal Maroon Tie-Knot Top",
+    "category": "Women's Tops",
+    "price": 419,
+    "oldPrice": 700,
+    "image": "/images/products/300.jpg",
+    "description": "Royal Maroon tie-knot top. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 301,
+    "name": "Sage Oversized Tee",
+    "category": "T-Shirts",
+    "price": 809,
+    "oldPrice": 900,
+    "image": "/images/products/301.jpg",
+    "description": "Sage oversized tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 302,
+    "name": "Classic Blue Boyfriend Jeans",
+    "category": "Jeans",
+    "price": 1439,
+    "oldPrice": 1600,
+    "image": "/images/products/302.jpg",
+    "description": "Classic Blue boyfriend jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 303,
+    "name": "Olive Linen Shorts",
+    "category": "Shorts",
+    "price": 679,
+    "oldPrice": 800,
+    "image": "/images/products/303.jpg",
+    "description": "Olive linen shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 304,
+    "name": "Sky Blue Cotton Leggings",
+    "category": "Leggings",
+    "price": 229,
+    "oldPrice": 450,
+    "image": "/images/products/304.jpg",
+    "description": "Sky Blue cotton leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "49% OFF"
+  },
+  {
+    "id": 305,
+    "name": "Emerald Midi Skirt",
+    "category": "Skirts",
+    "price": 1529,
+    "oldPrice": 1700,
+    "image": "/images/products/305.jpg",
+    "description": "Emerald midi skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 306,
+    "name": "Peach Shrug",
+    "category": "Jackets",
+    "price": 1259,
+    "oldPrice": 2100,
+    "image": "/images/products/306.jpg",
+    "description": "Peach shrug. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 307,
+    "name": "Pearl White Festive Salwar Suit",
+    "category": "Traditional Wear",
+    "price": 419,
+    "oldPrice": 700,
+    "image": "/images/products/307.jpg",
+    "description": "Pearl White festive salwar suit. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 308,
+    "name": "Emerald Angrakha Dress",
+    "category": "Ethnic Dresses",
+    "price": 2549,
+    "oldPrice": 4250,
+    "image": "/images/products/308.jpg",
+    "description": "Emerald angrakha dress. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 309,
+    "name": "Olive Chiffon Saree",
+    "category": "Sarees",
+    "price": 2299,
+    "oldPrice": 2550,
+    "image": "/images/products/309.jpg",
+    "description": "Olive chiffon saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 310,
+    "name": "Lavender Satin Cami Top",
+    "category": "Women's Tops",
+    "price": 739,
+    "oldPrice": 1050,
+    "image": "/images/products/310.jpg",
+    "description": "Lavender satin cami top. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 311,
+    "name": "Wine Striped Tee",
+    "category": "T-Shirts",
+    "price": 379,
+    "oldPrice": 750,
+    "image": "/images/products/311.jpg",
+    "description": "Wine striped tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "49% OFF"
+  },
+  {
+    "id": 312,
+    "name": "Jet Black Straight Jeans",
+    "category": "Jeans",
+    "price": 1349,
+    "oldPrice": 1500,
+    "image": "/images/products/312.jpg",
+    "description": "Jet Black straight jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 313,
+    "name": "Emerald Paperbag Shorts",
+    "category": "Shorts",
+    "price": 809,
+    "oldPrice": 950,
+    "image": "/images/products/313.jpg",
+    "description": "Emerald paperbag shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 314,
+    "name": "Coral Printed Leggings",
+    "category": "Leggings",
+    "price": 409,
+    "oldPrice": 550,
+    "image": "/images/products/314.jpg",
+    "description": "Coral printed leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 315,
+    "name": "Emerald A-Line Skirt",
+    "category": "Skirts",
+    "price": 839,
+    "oldPrice": 1050,
+    "image": "/images/products/315.jpg",
+    "description": "Emerald a-line skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 316,
+    "name": "Teal Bomber Jacket",
+    "category": "Jackets",
+    "price": 789,
+    "oldPrice": 1050,
+    "image": "/images/products/316.jpg",
+    "description": "Teal bomber jacket. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 317,
+    "name": "Wine Palazzo Kurta Set",
+    "category": "Traditional Wear",
+    "price": 629,
+    "oldPrice": 1250,
+    "image": "/images/products/317.jpg",
+    "description": "Wine palazzo kurta set. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 318,
+    "name": "Pearl White Gharara Set",
+    "category": "Ethnic Dresses",
+    "price": 1319,
+    "oldPrice": 1650,
+    "image": "/images/products/318.jpg",
+    "description": "Pearl White gharara set. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 319,
+    "name": "Sky Blue Banarasi Saree",
+    "category": "Sarees",
+    "price": 4549,
+    "oldPrice": 5350,
+    "image": "/images/products/319.jpg",
+    "description": "Sky Blue banarasi saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 320,
+    "name": "Sky Blue Off-Shoulder Top",
+    "category": "Women's Tops",
+    "price": 959,
+    "oldPrice": 1200,
+    "image": "/images/products/320.jpg",
+    "description": "Sky Blue off-shoulder top. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 321,
+    "name": "Royal Maroon Striped Tee",
+    "category": "T-Shirts",
+    "price": 449,
+    "oldPrice": 900,
+    "image": "/images/products/321.jpg",
+    "description": "Royal Maroon striped tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "50% OFF"
+  },
+  {
+    "id": 322,
+    "name": "Stone Grey Skinny Jeans",
+    "category": "Jeans",
+    "price": 1009,
+    "oldPrice": 1450,
+    "image": "/images/products/322.jpg",
+    "description": "Stone Grey skinny jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 323,
+    "name": "Charcoal Denim Shorts",
+    "category": "Shorts",
+    "price": 749,
+    "oldPrice": 1000,
+    "image": "/images/products/323.jpg",
+    "description": "Charcoal denim shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 324,
+    "name": "Sage Printed Leggings",
+    "category": "Leggings",
+    "price": 259,
+    "oldPrice": 350,
+    "image": "/images/products/324.jpg",
+    "description": "Sage printed leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 325,
+    "name": "Sky Blue Tiered Skirt",
+    "category": "Skirts",
+    "price": 809,
+    "oldPrice": 900,
+    "image": "/images/products/325.jpg",
+    "description": "Sky Blue tiered skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 326,
+    "name": "Rose Blush Denim Jacket",
+    "category": "Jackets",
+    "price": 1799,
+    "oldPrice": 2250,
+    "image": "/images/products/326.jpg",
+    "description": "Rose Blush denim jacket. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 327,
+    "name": "Royal Maroon Block Print Kurti",
+    "category": "Traditional Wear",
+    "price": 1019,
+    "oldPrice": 1200,
+    "image": "/images/products/327.jpg",
+    "description": "Royal Maroon block print kurti. Fabric: Fine mulmul cotton & chanderi silk blend. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "TRENDING"
+  },
+  {
+    "id": 328,
+    "name": "Pearl White Lehenga Set",
+    "category": "Ethnic Dresses",
+    "price": 1689,
+    "oldPrice": 2250,
+    "image": "/images/products/328.jpg",
+    "description": "Pearl White lehenga set. Fabric: Flowing georgette, crepe & organza. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 329,
+    "name": "Olive Banarasi Saree",
+    "category": "Sarees",
+    "price": 4599,
+    "oldPrice": 5750,
+    "image": "/images/products/329.jpg",
+    "description": "Olive banarasi saree. Fabric: Pure Banarasi zari, Kanjivaram silk & chiffon. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 330,
+    "name": "Sky Blue Satin Cami Top",
+    "category": "Women's Tops",
+    "price": 699,
+    "oldPrice": 1000,
+    "image": "/images/products/330.jpg",
+    "description": "Sky Blue satin cami top. Fabric: Satin silk, breathable cotton & soft crepe. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "NEW"
+  },
+  {
+    "id": 331,
+    "name": "Peach Polo Tee",
+    "category": "T-Shirts",
+    "price": 359,
+    "oldPrice": 600,
+    "image": "/images/products/331.jpg",
+    "description": "Peach polo tee. Fabric: 100% Combed bio-wash cotton jersey. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 332,
+    "name": "Light Wash Skinny Jeans",
+    "category": "Jeans",
+    "price": 869,
+    "oldPrice": 1450,
+    "image": "/images/products/332.jpg",
+    "description": "Light Wash skinny jeans. Fabric: Premium stretch denim with comfort waist. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  },
+  {
+    "id": 333,
+    "name": "Mustard Paperbag Shorts",
+    "category": "Shorts",
+    "price": 559,
+    "oldPrice": 750,
+    "image": "/images/products/333.jpg",
+    "description": "Mustard paperbag shorts. Fabric: Washed denim, breathable linen & pure cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "BESTSELLER"
+  },
+  {
+    "id": 334,
+    "name": "Rose Blush Stretch Leggings",
+    "category": "Leggings",
+    "price": 529,
+    "oldPrice": 750,
+    "image": "/images/products/334.jpg",
+    "description": "Rose Blush stretch leggings. Fabric: 4-way super stretch cotton lycra. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 335,
+    "name": "Midnight Navy Mini Skirt",
+    "category": "Skirts",
+    "price": 1259,
+    "oldPrice": 1800,
+    "image": "/images/products/335.jpg",
+    "description": "Midnight Navy mini skirt. Fabric: Satin slip, pleated crepe & tiered cotton. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": ""
+  },
+  {
+    "id": 336,
+    "name": "Olive Bomber Jacket",
+    "category": "Jackets",
+    "price": 1049,
+    "oldPrice": 1750,
+    "image": "/images/products/336.jpg",
+    "description": "Olive bomber jacket. Fabric: Tailored twill, denim & quilted satin. Handcrafted for superior comfort and luxury silhouette.",
+    "tag": "40% OFF"
+  }
+]

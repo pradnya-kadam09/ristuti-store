@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1730000001000,
+    "name": "Pooja Sharma",
+    "rating": 5,
+    "title": "Stunning Chikankari Kurti & Pure Silk Quality",
+    "comment": "The Chikankari kurti I ordered exceeded all my expectations. The fabric is pure, soft breathable cotton with exquisite hand-embroidery. Delivered within 3 days in beautiful boutique packaging. Truly premium experience!",
+    "createdAt": "2026-10-24T10:15:00.000Z"
+  },
+  {
+    "id": 1730000002000,
+    "name": "Ananya Sen",
+    "rating": 5,
+    "title": "Flawless fit on the wide-leg denim jeans",
+    "comment": "Finding jeans that fit both waist and hips perfectly has always been a struggle, but Ristuti's high-rise jeans fit like a glove! Great stretch, super flattering cut, and sturdy denim weave.",
+    "createdAt": "2026-10-23T14:40:00.000Z"
+  },
+  {
+    "id": 1730000003000,
+    "name": "Meera Iyer",
+    "rating": 5,
+    "title": "Magnificent Kanjivaram Saree for Diwali",
+    "comment": "Wore this saree for our family Diwali celebration and received countless compliments! The zari sheen is subtle and regal, not loud or cheap. Drapes with such grace.",
+    "createdAt": "2026-10-22T09:20:00.000Z"
+  },
+  {
+    "id": 1730000004000,
+    "name": "Rhea Kapoor",
+    "rating": 5,
+    "title": "Everyday tops that elevate your daily look",
+    "comment": "I bought three different tops for work and casual outings. The satin wrap top is divine and pairs effortlessly with both skirts and trousers. Love the minimalist aesthetic.",
+    "createdAt": "2026-10-21T18:05:00.000Z"
+  },
+  {
+    "id": 1730000005000,
+    "name": "Shreya Mukherjee",
+    "rating": 4,
+    "title": "Lovely Festive Anarkali Gown",
+    "comment": "Gorgeous color and flared silhouette! Felt like royalty wearing it. The inner lining is pure cotton so it didn't itch at all during the long wedding function. Super happy.",
+    "createdAt": "2026-10-20T11:30:00.000Z"
+  },
+  {
+    "id": 1730000006000,
+    "name": "Tanya Varma",
+    "rating": 5,
+    "title": "Denim shorts are comfortable & chic",
+    "comment": "Great length, comfortable waistband, and premium distressed finish. It's rare to find high quality women's shorts that are both stylish and modest. 10/10!",
+    "createdAt": "2026-10-19T16:45:00.000Z"
+  },
+  {
+    "id": 1730000007000,
+    "name": "Dr. Kavita Joshi",
+    "rating": 5,
+    "title": "Exceptional customer support & swift dispatch",
+    "comment": "I had a query regarding sizing and called the support number—the team was remarkably polite and helped me choose the right fit. The order arrived early in pristine condition.",
+    "createdAt": "2026-10-18T13:10:00.000Z"
+  }
+]

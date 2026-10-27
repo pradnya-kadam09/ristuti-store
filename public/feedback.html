@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Share your suggestions and feedback with RISTUTI Haute Couture." />
+  <title>Customer Feedback | RISTUTI Haute Couture</title>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="/style.css" />
+  <style>
+    .feedback-hero {
+      text-align: center;
+      background: linear-gradient(135deg, #fbf7f0 0%, #f4ede3 55%, #ecdcca 100%);
+      padding: 70px 4% 60px;
+      border-bottom: 1px solid var(--border);
+    }
+    .feedback-layout {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 70px 4% 90px;
+      display: grid;
+      grid-template-columns: 1.4fr 1fr;
+      gap: 40px;
+    }
+    .feedback-card, .info-card {
+      background: #ffffff;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      padding: 35px;
+      box-shadow: var(--shadow-sm);
+    }
+    .char-counter {
+      display: block;
+      text-align: right;
+      font-size: 11px;
+      color: var(--muted);
+      margin-top: 4px;
+    }
+    .feedback-done {
+      display: none;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    .feedback-done.visible {
+      display: block;
+    }
+    .support-list {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      margin-top: 24px;
+    }
+    .support-item {
+      padding-bottom: 18px;
+      border-bottom: 1px solid var(--border-light);
+    }
+    .support-item:last-child {
+      border-bottom: none;
+    }
+    .support-item span {
+      display: block;
+      font-size: 10px;
+      letter-spacing: 1.2px;
+      text-transform: uppercase;
+      color: var(--muted);
+      font-weight: 700;
+      margin-bottom: 4px;
+    }
+    .support-item strong {
+      font-family: var(--serif);
+      font-size: 20px;
+      color: var(--wine);
+    }
+    @media (max-width: 850px) {
+      .feedback-layout {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Luxury Announcement Ticker -->
+  <div class="announcement">
+    <div class="announcement-track">
+      <span class="ticker-item">✦ COMPLIMENTARY EXPRESS SHIPPING ACROSS INDIA ON ORDERS ABOVE ₹1,499 ✦</span>
+      <span class="ticker-item">✦ 100% ARTISANAL WEAVES, HANDLOOMS & CONTEMPORARY SILHOUETTES ✦</span>
+    </div>
+  </div>
+
+  <!-- Header -->
+  <header class="header" id="mainHeader">
+    <div class="header-inner">
+      <div class="header-left">
+        <a class="logo" href="/" aria-label="RISTUTI Home">
+          <span class="logo-title">RISTUTI</span><span class="logo-dot">.</span>
+          <span class="logo-sub">HAUTE COUTURE & ETHNIC BOUTIQUE</span>
+        </a>
+      </div>
+      <nav class="nav" id="mainNav">
+        <a href="/">Home</a>
+        <a href="/#categories">Collections</a>
+        <a href="/#shop">Shop All</a>
+        <a href="/#about">Our Story</a>
+        <a href="/#reviews">Reviews</a>
+        <a href="/feedback" class="active">Feedback</a>
+      </nav>
+      <div class="header-actions">
+        <a href="/" class="btn btn-outline" style="padding: 8px 16px; font-size: 11px;">← Back to Boutique</a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="feedback-hero">
+      <p class="section-eyebrow">YOUR VOICE MATTERS</p>
+      <h1 class="section-title">Your feedback,<br><em>our craftsmanship.</em></h1>
+      <p class="section-desc" style="max-width: 500px; margin: 12px auto 0;">
+        Share your experience, suggest a collection you would love to see, or let us know how we can elevate our service.
+      </p>
+    </section>
+
+    <div class="feedback-layout">
+      <div class="feedback-card">
+        <form id="feedbackForm">
+          <div class="form-row">
+            <div class="form-group">
+              <label for="fbName">Your Name</label>
+              <input id="fbName" name="name" maxlength="60" placeholder="e.g. Radhika Sharma" />
+            </div>
+            <div class="form-group">
+              <label for="fbContact">Contact (Phone or Email)</label>
+              <input id="fbContact" name="contact" maxlength="150" placeholder="So our stylists can reply to you" />
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="fbType">What is this about? *</label>
+            <select id="fbType" name="type">
+              <option>Suggestion for Collections</option>
+              <option>Compliment & Appreciation</option>
+              <option>Specific Product Request</option>
+              <option>Fitting or Sizing Query</option>
+              <option>Order Delivery Experience</option>
+              <option>Other</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <span class="field-label">Overall Boutique Experience (optional)</span>
+            <div class="star-picker" id="starPicker">
+              <button type="button" class="star-btn" data-star="5" aria-label="5 stars">★</button>
+              <button type="button" class="star-btn" data-star="4" aria-label="4 stars">★</button>
+              <button type="button" class="star-btn" data-star="3" aria-label="3 stars">★</button>
+              <button type="button" class="star-btn" data-star="2" aria-label="2 stars">★</button>
+              <button type="button" class="star-btn" data-star="1" aria-label="1 star">★</button>
+            </div>
+            <input type="hidden" name="rating" id="ratingInput" value="">
+          </div>
+
+          <div class="form-group">
+            <label for="message">Your Message *</label>
+            <textarea name="message" id="message" required minlength="10" maxlength="1500" rows="5" placeholder="Share your suggestions, outfit thoughts, or requests with our design team..."></textarea>
+            <small class="char-counter"><span id="charCount">0</span> / 1500 characters</small>
+          </div>
+
+          <button class="btn btn-luxury full-width" type="submit" id="sendFeedback">
+            <span>Send Feedback to Artisans</span>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </button>
+        </form>
+
+        <div class="feedback-done" id="feedbackDone">
+          <svg viewBox="0 0 24 24" width="60" height="60" fill="none" stroke="#2e7d32" stroke-width="2" style="margin: 0 auto 16px;"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></svg>
+          <h3 style="font-family:var(--serif); font-size:26px; color:var(--wine); margin: 0 0 10px;">Thank You for Your Feedback!</h3>
+          <p style="font-size:13px; color:var(--muted); line-height: 1.8;">
+            Your thoughts have been delivered directly to our design and customer care team. We review every note with genuine appreciation.
+          </p>
+          <a class="btn btn-luxury" href="/" style="margin-top:20px; display:inline-flex;">Return to Shop</a>
+        </div>
+      </div>
+
+      <div class="info-card">
+        <p class="section-eyebrow">DIRECT BOUTIQUE CARE</p>
+        <h3 style="font-family:var(--serif); font-size:24px; margin: 0 0 10px;">We're Here for You</h3>
+        <p style="font-size:13px; color:var(--muted); line-height: 1.7;">
+          Need assistance with custom tailoring, fabric care, or order tracking? Reach out directly to our dedicated support stylists.
+        </p>
+
+        <div class="support-list">
+          <div class="support-item">
+            <span>Customer Helpline</span>
+            <strong><a href="tel:+917263518364">+91 72635 18364</a></strong>
+          </div>
+          <div class="support-item">
+            <span>Instagram Direct</span>
+            <strong><a href="https://www.instagram.com/_ristuti_/" target="_blank" rel="noopener noreferrer">@_ristuti_</a></strong>
+          </div>
+          <div class="support-item">
+            <span>Response Time</span>
+            <p style="font-size:12px; color:var(--muted); margin:4px 0 0;">Within 2-4 business hours</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer class="footer" style="padding-top:40px;">
+    <div class="footer-bottom" style="margin-top:0;">
+      <span>© <span id="year">2026</span> RISTUTI BOUTIQUE. All rights reserved.</span>
+      <span>Handcrafted with care for modern elegance.</span>
+    </div>
+  </footer>
+
+  <div class="toast" id="toast"></div>
+
+  <script src="/fx.js"></script>
+  <script src="/feedback.js"></script>
+</body>
+</html>

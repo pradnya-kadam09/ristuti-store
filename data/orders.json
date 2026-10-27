@@ -1,0 +1,163 @@
+[
+  {
+    "id": "RST-89267476",
+    "customer": {
+      "name": "Aaryan Chorge",
+      "phone": "897967686",
+      "email": "chorgeaaryan13@gmail.com"
+    },
+    "address": "HJGVGJVGJ",
+    "items": [
+      {
+        "id": 111,
+        "name": "Emerald Graphic Tee",
+        "price": 759,
+        "image": "/images/products/111.jpg",
+        "category": "T-Shirts",
+        "quantity": 1,
+        "size": "XL"
+      },
+      {
+        "id": 23,
+        "name": "Lavender Cotton Shorts",
+        "price": 279,
+        "image": "/images/products/23.jpg",
+        "category": "Shorts",
+        "quantity": 1,
+        "size": "XL"
+      },
+      {
+        "id": 15,
+        "name": "Pearl White Pleated Skirt",
+        "price": 1399,
+        "image": "/images/products/15.jpg",
+        "category": "Skirts",
+        "quantity": 1,
+        "size": "S"
+      }
+    ],
+    "subtotal": 2437,
+    "discount": 244,
+    "promoCode": "NOIR10",
+    "total": 2193,
+    "note": "",
+    "paymentMethod": "Cash on Delivery",
+    "paymentStatus": "Pending",
+    "status": "Order received · Processing for dispatch",
+    "createdAt": "2026-10-27T08:21:07.476Z"
+  },
+  {
+    "id": "RST-85529514",
+    "customer": {
+      "name": "Aaryan Chorge",
+      "phone": "9389348956",
+      "email": "chorgeaaryan13@gmail.com"
+    },
+    "address": "GHNCHFDFGNVBN ",
+    "items": [
+      {
+        "id": 22,
+        "name": "Ice Blue Bootcut Jeans",
+        "price": 1109,
+        "image": "/images/products/22.jpg",
+        "category": "Jeans",
+        "quantity": 1,
+        "size": "XXL"
+      },
+      {
+        "id": 32,
+        "name": "Dark Indigo Skinny Jeans",
+        "price": 959,
+        "image": "/images/products/32.jpg",
+        "category": "Jeans",
+        "quantity": 1,
+        "size": "S"
+      }
+    ],
+    "subtotal": 2068,
+    "discount": 207,
+    "promoCode": "NOIR10",
+    "total": 1861,
+    "note": "",
+    "paymentMethod": "Cash on Delivery",
+    "paymentStatus": "Pending",
+    "status": "Order received · Processing for dispatch",
+    "createdAt": "2026-10-27T07:18:49.514Z"
+  },
+  {
+    "id": "RST-84850322",
+    "customer": {
+      "name": "Priya Sharma",
+      "phone": "9876543210",
+      "email": "priya@example.com"
+    },
+    "address": "42 Marine Drive, Mumbai",
+    "items": [
+      {
+        "id": 1,
+        "name": "Rose Printed Kurti",
+        "price": 899,
+        "image": "/images/products/1.jpg",
+        "category": "Traditional Wear",
+        "quantity": 1,
+        "size": "M"
+      },
+      {
+        "id": 1,
+        "name": "Rose Printed Kurti",
+        "price": 899,
+        "image": "/images/products/1.jpg",
+        "category": "Traditional Wear",
+        "quantity": 2,
+        "size": "XXL"
+      },
+      {
+        "id": 9,
+        "name": "Peach Kanjivaram Saree",
+        "price": 1649,
+        "image": "/images/products/9.jpg",
+        "category": "Sarees",
+        "quantity": 1,
+        "size": "S"
+      }
+    ],
+    "subtotal": 4346,
+    "discount": 435,
+    "promoCode": "NOIR10",
+    "total": 3911,
+    "note": "",
+    "paymentMethod": "Cash on Delivery",
+    "paymentStatus": "Pending",
+    "status": "Order received · Processing for dispatch",
+    "createdAt": "2026-10-27T07:07:30.322Z"
+  },
+  {
+    "id": "RST-84047962",
+    "customer": {
+      "name": "Test Customer",
+      "phone": "9876543210",
+      "email": "test@example.com"
+    },
+    "address": "123 Fashion Street, Mumbai, 400001",
+    "items": [
+      {
+        "id": 1,
+        "name": "Rose Printed Kurti",
+        "price": 899,
+        "image": "/images/products/1.jpg",
+        "category": "Traditional Wear",
+        "quantity": 1,
+        "size": "M"
+      }
+    ],
+    "subtotal": 899,
+    "discount": 90,
+    "promoCode": "NOIR10",
+    "total": 809,
+    "note": "",
+    "paymentMethod": "Cash on Delivery",
+    "paymentStatus": "Pending",
+    "status": "Order received · Processing for dispatch",
+    "createdAt": "2026-10-27T06:54:07.962Z"
+  }
+]
